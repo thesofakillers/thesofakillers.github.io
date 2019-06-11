@@ -37,7 +37,7 @@ url                    = "/projects/"
 
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
-latestpostscount       = 2                             # how many posts to display on the home page
+# latestpostscount     = 1                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "Giulio Starace"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
@@ -75,3 +75,7 @@ gitalk_admin           = ['a', 'list', 'of', 'administrator']
 
 avatar                 = "images/avatar.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
