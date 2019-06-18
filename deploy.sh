@@ -8,6 +8,7 @@ hugo -t cocoa
 # Go To Public folder
 cd public
 # Add changes to git.
+git pull
 git add .
 
 # Commit changes.
