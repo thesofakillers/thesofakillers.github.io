@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Giulio Starace</title>
-    <link>https://thesofakillers.github.io/projects/</link>
+    <link>https://www.giuliostarace.com/projects/</link>
     <description>Recent content in Projects on Giulio Starace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 11 Jun 2019 23:11:47 +0100</lastBuildDate>
     
-	<atom:link href="https://thesofakillers.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.giuliostarace.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
