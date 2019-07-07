@@ -11,7 +11,7 @@ title               = "Giulio Starace"
 pygmentsuseclasses  = true
 disqusshortname     = "thesofakillers" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-143281261-1"
 
 [permalinks]
 blog  = "blog/:slug/"
