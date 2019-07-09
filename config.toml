@@ -53,7 +53,7 @@ instagram              = "//instagram.com/thesofakillers"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/giuliostarace"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Citizen of the Earth. Aspiring Developer."                            # appears in the site header when set to a non-empty string
+selfintro              = "Wandering through my mind."                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/thesofakillers"
 # telegram               = "//t.me/you"
 
