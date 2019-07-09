@@ -10,7 +10,7 @@ theme               = "cocoa"
 author              = "Giulio Starace"
 title               = "Giulio Starace"
 pygmentsuseclasses  = true
-disqusshortname     = "thesofakillers" # Comment out to disable Disqus.
+disqusshortname     = "giuliostarace" # Comment out to disable Disqus.
 pluralizelisttitles = false
 
 [permalinks]
