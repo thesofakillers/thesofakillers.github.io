@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.giuliostarace.com/blog/why-blog/</loc>
+    <lastmod>2019-07-08T16:41:28+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.giuliostarace.com/blog/</loc>
     <lastmod>2019-06-11T23:19:16+01:00</lastmod>
   </url>
@@ -24,12 +29,19 @@
   
   <url>
     <loc>https://www.giuliostarace.com/</loc>
-    <lastmod>2019-06-11T23:02:33+01:00</lastmod>
+    <lastmod>2019-07-08T16:41:28+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.giuliostarace.com/tags/meta/</loc>
+    <lastmod>2019-07-08T16:41:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.giuliostarace.com/tags/</loc>
+    <lastmod>2019-07-08T16:41:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   

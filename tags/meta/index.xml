@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giulio Starace</title>
-    <link>https://www.giuliostarace.com/</link>
-    <description>Recent content on Giulio Starace</description>
+    <title>Meta on Giulio Starace</title>
+    <link>https://www.giuliostarace.com/tags/meta/</link>
+    <description>Recent content in Meta on Giulio Starace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 08 Jul 2019 16:41:28 +0200</lastBuildDate>
     
-	<atom:link href="https://www.giuliostarace.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.giuliostarace.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://www.giuliostarace.com/blog/why-blog/</guid>
       <description>There is a &amp;ldquo;syndrome&amp;rdquo; I suffer from that could easily be called &amp;ldquo;nebulous thoughts syndrome&amp;rdquo;. In a way, you could describe it as daydreaming. While cooking, showering, walking to classes, walking in general or while doing whatever other random activity, I very often catch my mind drifting, thinking about all sorts of different matters.
 I&amp;rsquo;m sure we all get caught up in this but for me it ends up being relatively frustrating - I find that because of the hazy nature of these inner discussions, they often do not find any solid conclusions, simply morphing into new topics, often overly emotionally influenced and opinionated, lacking any form of fact-checking and structure.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.giuliostarace.com/about/</link>
-      <pubDate>Tue, 11 Jun 2019 23:02:33 +0100</pubDate>
-      
-      <guid>https://www.giuliostarace.com/about/</guid>
-      <description>About Me Hi, I&amp;rsquo;m Giulio Starace &amp;ndash; welcome to my personal website.
-I&amp;rsquo;m a recent Physics and Computer Science graduate from Durham University in the North-East of England. Originally from Rome, Italy, I&amp;rsquo;ve lived in a variety of different places growing up thanks to my parents&amp;rsquo; jobs, which has granted me the privilege of experiencing a wide breadth of cultures from a very young age.
-Greatly interested in technology, I&amp;rsquo;ve created this website to centrally document my adventure into the professional world, providing me with a space to share my thoughts, projects and achievements.</description>
     </item>
     
   </channel>
