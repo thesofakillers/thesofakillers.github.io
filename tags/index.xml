@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Giulio Starace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Jul 2019 16:41:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 17:32:39 +0200</lastBuildDate>
     
 	<atom:link href="https://www.giuliostarace.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devblog</title>
+      <link>https://www.giuliostarace.com/tags/devblog/</link>
+      <pubDate>Mon, 22 Jul 2019 17:32:39 +0200</pubDate>
+      
+      <guid>https://www.giuliostarace.com/tags/devblog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Meta</title>
@@ -17,6 +26,24 @@
       <pubDate>Mon, 08 Jul 2019 16:41:28 +0200</pubDate>
       
       <guid>https://www.giuliostarace.com/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://www.giuliostarace.com/tags/project/</link>
+      <pubDate>Mon, 22 Jul 2019 17:32:39 +0200</pubDate>
+      
+      <guid>https://www.giuliostarace.com/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rirespira</title>
+      <link>https://www.giuliostarace.com/tags/rirespira/</link>
+      <pubDate>Mon, 22 Jul 2019 17:32:39 +0200</pubDate>
+      
+      <guid>https://www.giuliostarace.com/tags/rirespira/</guid>
       <description></description>
     </item>
     
