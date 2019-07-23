@@ -1,5 +1,5 @@
 ---
-title: "Rirespira DevBlog 1 - The Concept"
+title: "Rirespira DevBlog 1 | The Concept"
 date: 2019-07-22T17:32:39+02:00
 draft: false
 tags: ["project", "rirespira", "devblog"]
