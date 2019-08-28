@@ -6,10 +6,21 @@
     <description>Recent content in Rirespira on Giulio Starace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Jul 2019 23:36:15 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 14:15:25 -0400</lastBuildDate>
     
 	<atom:link href="https://www.giuliostarace.com/tags/rirespira/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rirespira DevBlog 3 | Re-think</title>
+      <link>https://www.giuliostarace.com/blog/rirespira-devblog-3--re-think/</link>
+      <pubDate>Wed, 28 Aug 2019 14:15:25 -0400</pubDate>
+      
+      <guid>https://www.giuliostarace.com/blog/rirespira-devblog-3--re-think/</guid>
+      <description>So, it&amp;rsquo;s been a while. It&amp;rsquo;s been more than a month, in fact, since the last time I committed anything to my Rirespira git repository, which includes planning documents.
+I&amp;rsquo;ve been quite busy to say the least; since my last commit I have moved to a new continent and started a 6-month internship which will keep me busy here until the beginning of February.
+Moving to a new continent, on my own, where the language spoken is neither Italian nor English, has definitely taken up quite a bit of my time and energy.</description>
+    </item>
     
     <item>
       <title>Rirespira DevBlog 2 | The Tech Stack</title>
