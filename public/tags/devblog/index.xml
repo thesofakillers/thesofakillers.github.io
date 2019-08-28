@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devblog on Giulio Starace</title>
+    <link>https://www.giuliostarace.com/tags/devblog/</link>
+    <description>Recent content in Devblog on Giulio Starace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 23 Jul 2019 23:36:15 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.giuliostarace.com/tags/devblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rirespira DevBlog 2 | The Tech Stack</title>
+      <link>https://www.giuliostarace.com/blog/rirespira-devblog-2--the-tech-stack/</link>
+      <pubDate>Tue, 23 Jul 2019 23:36:15 +0200</pubDate>
+      
+      <guid>https://www.giuliostarace.com/blog/rirespira-devblog-2--the-tech-stack/</guid>
+      <description>So I have somewhat introduced the concept behind Rirespira, but how will it be implemented from a technological point of view?
+Rirespira will be a website. With the mobile app market dying down, frameworks becoming more and more suitable for mobile web development and internet connectivity becoming increasingly accessible, for me it only makes sense for most projects be web-based.
+The nature of a browser-based Rirespira will require a front-end, a back-end and a database before being deployed, like most dynamic websites.</description>
+    </item>
+    
+    <item>
+      <title>Rirespira DevBlog 1 | The Concept</title>
+      <link>https://www.giuliostarace.com/blog/rirespira-devblog-1--the-concept/</link>
+      <pubDate>Mon, 22 Jul 2019 17:32:39 +0200</pubDate>
+      
+      <guid>https://www.giuliostarace.com/blog/rirespira-devblog-1--the-concept/</guid>
+      <description>For the last three years I have been living in the UK, particularly up north in Durham where the climate throughout the year doesn&amp;rsquo;t really lend itself to a strong agricultural economy when it comes to vegetables other than potatoes and carrots.
+The result is the presence of a huge proportion of imported vegetables in supermarkets, often from across the Atlantic and often packaged in plastic to prolong their shelf life.</description>
+    </item>
+    
+  </channel>
+</rss>

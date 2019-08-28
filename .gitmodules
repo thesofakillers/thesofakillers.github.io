@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:thesofakillers/thesofakilers.github.io.git
 	branch = master
+[submodule "cocoa-hugo-theme"]
+	path = themes/cocoa
+	url = https://github.com/nishanths/cocoa-hugo-theme.git
