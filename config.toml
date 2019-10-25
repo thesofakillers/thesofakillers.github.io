@@ -1,5 +1,5 @@
 googleAnalytics     = "UA-143281261-1"
-baseurl = "https://thesofakillers.github.io/"
+baseURL = "https://www.giuliostarace.com/"
 title = "Giulio Starace"
 theme = "hugo-coder"
 languagecode = "en"
