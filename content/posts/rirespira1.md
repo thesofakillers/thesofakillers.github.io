@@ -1,9 +1,10 @@
----
-title: "Rirespira DevBlog 1 | The Concept"
-date: 2019-07-22T17:32:39+02:00
-draft: false
-tags: ["project", "rirespira", "devblog"]
----
++++
+title= "Rirespira DevBlog 1 | The Concept"
+date= 2019-07-22
+draft= false
+slug="rirespira-1-concept"
+tags= ["project", "rirespira", "devblog"]
++++
 
 For the last three years I have been living in the UK, particularly up north in Durham where the climate throughout the year doesn't really lend itself to a strong agricultural economy when it comes to vegetables other than potatoes and carrots.
 
@@ -15,7 +16,7 @@ Of course, this isn't really that big of an issue. A [simple Google Search](http
 
 The problem, rather, arises from having to constantly navigate google search results, often relying on flimsy articles devoid of sources and loaded with bias. The problem continues when you wish to perhaps compare your options, now finding yourself in between different articles, perhaps using different units and different measurement methods -- more often than not badly communicated, if communicated at all.
 
-* * *
+---
 
 _Rirespira_ would provide a solution to this issue by providing a centralized location in which to collect, organize and present all the information needed for users to make environmentally conscious decisions without the hassle of scouring through Google Search results. Think of a [Pokédex](https://pokemon.fandom.com/wiki/Pok%C3%A9dex) for activities that have an environmental impact (which means basically any activity).
 
@@ -33,7 +34,8 @@ This will later on allow users to be able to compare different activities in the
 
 Finally, I'd like to be able to concatenate submitted activities to provide more complex queries, which better capture the nature of reality. For example, rather than having a user simply ask "What is the environmental impact of eating asparagus?", Rirespira will be able to provide users with the option to refine their query into something like "What is the environmental impact of eating asparagus imported from Perù given that I live in England?" by combining information on asparagus with information on the environmental impact of transatlantic food transport.
 
-* * *
+---
+
 It's a lot I realize. Technologically it is not necessarily that difficult. The difficulty arises from the fact that this issue of the environment is very much not black and white. There are loads of factors to take into account and factoring context into the equation systematically is not an easy task.
 
 However I do think we can benefit from a centralized location for our environmental questions powered by the community, and I hope that I'll be able to deliver on the task. Stay tuned.

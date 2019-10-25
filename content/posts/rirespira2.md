@@ -1,15 +1,16 @@
----
-title: "Rirespira DevBlog 2 | The Tech Stack"
-date: 2019-07-23T23:36:15+02:00
-draft: false
-tags: ["project", "rirespira", "devblog"]
----
++++
+title= "Rirespira DevBlog 2 | The Tech Stack"
+date= 2019-07-23
+draft= false
+slug="rirespira-2-tech-stack"
+tags= ["project", "rirespira", "devblog"]
++++
 
 So I have somewhat introduced the [concept](https://www.giuliostarace.com/blog/rirespira-devblog-1--the-concept/) behind _Rirespira_, but how will it be implemented from a technological point of view?
 
 _Rirespira_ will be a website. With the [mobile app market dying down](https://techcrunch.com/2017/08/25/majority-of-u-s-consumers-still-download-zero-apps-per-month-says-comscore/), frameworks becoming more and more suitable for mobile web development and internet connectivity becoming increasingly accessible, for me it only makes sense for most projects be web-based.
 
- The nature of a browser-based Rirespira will require a front-end, a back-end and a database before being deployed, like most dynamic websites. In this devblog I will briefly go over the choices I made in preparing the project's tech stack before starting to build.
+The nature of a browser-based Rirespira will require a front-end, a back-end and a database before being deployed, like most dynamic websites. In this devblog I will briefly go over the choices I made in preparing the project's tech stack before starting to build.
 
 ## The Front-End
 
@@ -43,14 +44,14 @@ After considering a [variety](https://www.digitalocean.com/) of [options](https:
 
 As for registering the domain, I opted for [Namecheap](https://www.namecheap.com/) which I utilized for this website as well and have so far had a good experience with.
 
-* * *
+---
 
 That's more or less it for the tech stack. Now that I have everything more or less planned out I can finally get to work. The next steps look like:
 
-  1. Wireframe
-  2. Back-end + DB
-  3. Branding
-  4. Front-end
-  5. Deployment
+1. Wireframe
+2. Back-end + DB
+3. Branding
+4. Front-end
+5. Deployment
 
 Here it goes!

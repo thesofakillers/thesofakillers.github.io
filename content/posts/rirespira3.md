@@ -1,9 +1,10 @@
----
-title: "Rirespira DevBlog 3 | Re-think"
-date: 2019-08-28T14:15:25-04:00
-draft: false
-tags: ["project", "rirespira", "devblog"]
----
++++
+title= "Rirespira DevBlog 3 | Re-think"
+date= 2019-08-28
+draft= false
+slug="rirespira-3-re-think"
+tags= ["project", "rirespira", "devblog"]
++++
 
 So, it's been a while. It's been more than a month, in fact, since the last time I committed anything to my _Rirespira_ git repository, which includes planning documents.
 
@@ -25,7 +26,7 @@ The internship I'm working at currently definitely contributes to the improvemen
 
 Since my internship kind of leaves a hole in this area, I think this should be filled by my side-projects, along perhaps with [Kaggle](https://www.kaggle.com/) and autodidactism. So I feel the need now to either abandon _Rirespira_, focusing on projects more closely related to ML, or _readapt it_, so that it meets my needs.
 
-I like the idea behind _Rirespira_. Recently I've been feeling more and more inspired to make sure that the work that I do has a directly positive impact on the world, on the things I care about, the environment definitely being one of these. I do also think that in its current form, _Rirespira_ would be very hard to pull off in terms of achieving the popularity necessary for community-powered contribution to be a thing. I never expected _Rirespira_ to take off in any way in the first place and I already have purchased the domain, so I've realistically got nothing to lose other than the 7.99$ I paid for it. _Rirespira_ was kind of a side-project for building my planning skills, why not keep utilizing it for experimentation, and who knows, something may come out of it eventually.  
+I like the idea behind _Rirespira_. Recently I've been feeling more and more inspired to make sure that the work that I do has a directly positive impact on the world, on the things I care about, the environment definitely being one of these. I do also think that in its current form, _Rirespira_ would be very hard to pull off in terms of achieving the popularity necessary for community-powered contribution to be a thing. I never expected _Rirespira_ to take off in any way in the first place and I already have purchased the domain, so I've realistically got nothing to lose other than the 7.99\$ I paid for it. _Rirespira_ was kind of a side-project for building my planning skills, why not keep utilizing it for experimentation, and who knows, something may come out of it eventually.
 
 So, scratch the community aspect, at least for now. At a very high level, I'm readapting _Rirespira_ so that the raw information on the environmental impact is searched for via [web-scraping](https://en.wikipedia.org/wiki/Web_scraping) and parsed, at least initially, via [NLP](https://en.wikipedia.org/wiki/Natural_language_processing). This is quite ambitious I realize and probably impossible to pull off at the moment. I don't really know, but that's kind of the point. This will force me in a phase of research and learning that can only be useful to me. Furthermore, this extends the scope of the project into something larger, comparable to a dissertation, which is something I would've liked to do at my university but could only do one in Physics because of silly bureaucratic reasons.
 

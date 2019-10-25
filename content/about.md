@@ -1,9 +1,9 @@
----
-title: "About"
-date: 2019-06-11T23:02:33+01:00
-draft: false
----
-# About Me
++++
+title= "About"
+date= 2019-06-11
+draft= false
+slug="about"
++++
 
 Hi, I'm Giulio Starace -- welcome to my personal website.
 
@@ -18,4 +18,5 @@ Apart from these more "serious" matters, I'm also quite in love [with](https://o
 I think that should probably be enough for an About Me page. More info will probably seep in through blog posts so I will leave it there. Thank you and enjoy!
 
 # About this site
-I made this site using a static site generator, namely [Hugo](https://gohugo.io/), based on [Golang](https://golang.org/) by Google. I chose to use a static site generator because it in my view provides the right level of compromise between building from scratch (I'm not the best at making things look _ａｅｓｔｈｅｔｉｃ_ through CSS/HTML) and CMS (seemed like overkill and I've had bad experiences using WordPress). I chose Hugo mostly through word of mouth and was particularly drawn by its speed, simplicity and markdown integrations. I also thought it would expose me to Golang forcing me to learn some of it but so far it has been basically absent. The theme is [Cocoa](https://themes.gohugo.io/cocoa/) by Nishanth Shanmugham.
+
+I made this site using a static site generator, namely [Hugo](https://gohugo.io/), based on [Golang](https://golang.org/) by Google. I chose to use a static site generator because it in my view provides the right level of compromise between building from scratch (I'm not the best at making things look _ａｅｓｔｈｅｔｉｃ_ through CSS/HTML) and CMS (seemed like overkill and I've had bad experiences using WordPress). I chose Hugo mostly through word of mouth and was particularly drawn by its speed, simplicity and markdown integrations. I also thought it would expose me to Golang forcing me to learn some of it but so far it has been basically absent. The theme is [Coder](https://themes.gohugo.io/hugo-coder/) by Luiz F. A. de Prá

@@ -1,0 +1,21 @@
+{{ define "title" }} {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+<section class="container list">
+  <h1 class="title">{{ .Title }}</h1>
+  <p>
+    A collection of the projects I have worked on outside of university and
+    work. For university work, feel free to have a look at
+    <a href="https://github.com/thesofakillers">my GitHub</a>
+    Note that I will list projects here even while they are in-progress. Enjoy:
+  </p>
+
+  <ul>
+    {{- range .Paginator.Pages -}}
+    {{- .Render "li" -}}
+    {{- end -}}
+  </ul>
+
+  {{ partial "pagination.html" . }}
+</section>
+{{ end }}
