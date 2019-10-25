@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Giulio Starace</title>
-    <link>http://www.giuliostarace.com/tags/</link>
+    <link>https://thesofakillers.github.io/tags/</link>
     <description>Recent content in Tags on Giulio Starace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://www.giuliostarace.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thesofakillers.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>devblog</title>
-      <link>http://www.giuliostarace.com/tags/devblog/</link>
+      <link>https://thesofakillers.github.io/tags/devblog/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://www.giuliostarace.com/tags/devblog/</guid>
+      <guid>https://thesofakillers.github.io/tags/devblog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>http://www.giuliostarace.com/tags/project/</link>
+      <link>https://thesofakillers.github.io/tags/project/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://www.giuliostarace.com/tags/project/</guid>
+      <guid>https://thesofakillers.github.io/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rirespira</title>
-      <link>http://www.giuliostarace.com/tags/rirespira/</link>
+      <link>https://thesofakillers.github.io/tags/rirespira/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://www.giuliostarace.com/tags/rirespira/</guid>
+      <guid>https://thesofakillers.github.io/tags/rirespira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meta</title>
-      <link>http://www.giuliostarace.com/tags/meta/</link>
+      <link>https://thesofakillers.github.io/tags/meta/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://www.giuliostarace.com/tags/meta/</guid>
+      <guid>https://thesofakillers.github.io/tags/meta/</guid>
       <description></description>
     </item>
     
