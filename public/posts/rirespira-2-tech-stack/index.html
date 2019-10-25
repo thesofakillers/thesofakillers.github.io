@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Giulio Starace">
+    <meta name="description" content="Giulio Starace&#39;s personal website">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Rirespira DevBlog 2 | The Tech Stack"/>
+<meta name="twitter:description" content="So I have somewhat introduced the concept behind Rirespira, but how will it be implemented from a technological point of view?
+Rirespira will be a website. With the mobile app market dying down, frameworks becoming more and more suitable for mobile web development and internet connectivity becoming increasingly accessible, for me it only makes sense for most projects be web-based.
+The nature of a browser-based Rirespira will require a front-end, a back-end and a database before being deployed, like most dynamic websites."/>
+
+    <meta property="og:title" content="Rirespira DevBlog 2 | The Tech Stack" />
+<meta property="og:description" content="So I have somewhat introduced the concept behind Rirespira, but how will it be implemented from a technological point of view?
+Rirespira will be a website. With the mobile app market dying down, frameworks becoming more and more suitable for mobile web development and internet connectivity becoming increasingly accessible, for me it only makes sense for most projects be web-based.
+The nature of a browser-based Rirespira will require a front-end, a back-end and a database before being deployed, like most dynamic websites." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.giuliostarace.com/posts/rirespira-2-tech-stack/" />
+<meta property="article:published_time" content="2019-07-23T00:00:00-04:00" />
+<meta property="article:modified_time" content="2019-07-23T00:00:00-04:00" />
+
+
+    
+      <base href="http://www.giuliostarace.com/posts/rirespira-2-tech-stack/">
+    
+    <title>
+  Rirespira DevBlog 2 | The Tech Stack · Giulio Starace
+</title>
+
+    
+      <link rel="canonical" href="http://www.giuliostarace.com/posts/rirespira-2-tech-stack/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="http://www.giuliostarace.com/css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css" integrity="sha256-KNdREE8wwW2hqhuwQBXL5mLKz&#43;DRsBr08iQK1YWABpw=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+      <link rel="stylesheet" href="http://www.giuliostarace.com/css/custom.css" />
+    
+
+    
+    
+    <link rel="icon" type="image/png" href="http://www.giuliostarace.com/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://www.giuliostarace.com/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.59.0" />
+  </head>
+
+  <body class=" ">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="http://www.giuliostarace.com/">
+      Giulio Starace
+    </a>
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://www.giuliostarace.com/about/">About Me</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://www.giuliostarace.com/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="http://www.giuliostarace.com/projects/">Projects</a>
+          </li>
+        
+      
+      
+    </ul>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Rirespira DevBlog 2 | The Tech Stack</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2019-07-23T00:00:00-04:00'>
+                July 23, 2019
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              4 minutes read
+            </span>
+          </div>
+          
+          <div class="tags">
+  <i class="fas fa-tag"></i>
+    <a href="http://www.giuliostarace.com/tags/project/">project</a>
+      <span class="separator">•</span>
+    <a href="http://www.giuliostarace.com/tags/rirespira/">rirespira</a>
+      <span class="separator">•</span>
+    <a href="http://www.giuliostarace.com/tags/devblog/">devblog</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+
+<p>So I have somewhat introduced the <a href="https://www.giuliostarace.com/blog/rirespira-devblog-1--the-concept/">concept</a> behind <em>Rirespira</em>, but how will it be implemented from a technological point of view?</p>
+
+<p><em>Rirespira</em> will be a website. With the <a href="https://techcrunch.com/2017/08/25/majority-of-u-s-consumers-still-download-zero-apps-per-month-says-comscore/">mobile app market dying down</a>, frameworks becoming more and more suitable for mobile web development and internet connectivity becoming increasingly accessible, for me it only makes sense for most projects be web-based.</p>
+
+<p>The nature of a browser-based Rirespira will require a front-end, a back-end and a database before being deployed, like most dynamic websites. In this devblog I will briefly go over the choices I made in preparing the project&rsquo;s tech stack before starting to build.</p>
+
+<h2 id="the-front-end">The Front-End</h2>
+
+<p>I was torn between <a href="https://reactjs.org/">ReactJS</a> and <a href="https://vuejs.org/">VueJS</a> and ended up opting for the latter. React attracted me given that it is backed by very large tech companies (so surely it must be good right?) and is in great demand in the jobs market so would probably be worth learning. I ended up choosing VueJS instead though purely because of repeated recommendations by word-of-mouth. Furthermore, Vue is predicted to keep gaining popularity, even in the jobs market, so it&rsquo;s probably almost as worth learning as React. The fact that this particular technology is open-source also helps. Goodbye <a href="https://jquery.com/">JQuery</a>!</p>
+
+<p>For helping myself with styling, I will rely on <a href="https://getbootstrap.com/">Bootstrap</a>, which I have used before, experimenting with the <a href="https://bootstrap-vue.js.org/">BootstrapVue</a> combo.</p>
+
+<h2 id="the-back-end">The Back-End</h2>
+
+<p>This was a relatively straight-forward choice. Realistically, the two main contenders were <a href="https://nodejs.org/en/">NodeJS</a> and <a href="https://www.python.org/">Python</a>. While other programming languages such as <a href="https://php.net/">PHP</a> and <a href="https://www.java.com/en/download/">Java</a> are far from obsolete given the large amount of legacy code that needs to be maintained, I do feel like they are losing relevance when it comes to the leading edge of web-development. <a href="https://golang.org/">Go</a> also briefly fluctuated around the back of my head for a minute, but my relative unfamiliarity with the language ended up convincing me to abandon learning it for some other project.</p>
+
+<p>Between Python and NodeJS I ended up picking the latter. The reasons aren&rsquo;t really that major. Very simply, I already have a decent amount of Python projects and having developed web-projects using <a href="https://github.com/thesofakillers/esanta">both</a> <a href="https://github.com/thesofakillers/movie-reccomender">languages</a>, I overall felt more at ease using NodeJS.</p>
+
+<p>I plan on using the <a href="https://expressjs.com/">ExpressJS</a> framework to make things run smoother, having used this tech in the past before as well.</p>
+
+<h2 id="the-database">The Database</h2>
+
+<p>I debated between <a href="https://en.wikipedia.org/wiki/Relational_database">SQL</a> vs <a href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a> database options for quite a bit. On the one hand, as mentioned in my previous Rirespira devblog, the task the project is trying to achieve is somewhat complex, with a lot of potential subtleties in capturing the context necessary. I thought, this seems like the sort of unstructured mess that a non-relational database would be more suited for.</p>
+
+<p>I read a bit about <a href="https://www.mongodb.com/">MondoDB</a>, a lot about <a href="https://www.elastic.co/">ElasticSearch</a> (it was mentioned in a job I had applied to in the past and had caught my interest given its use in Data Science), I even read a bit about <a href="https://en.wikipedia.org/wiki/Graph_database">graph databases</a> but I was not really getting anywhere.</p>
+
+<p>Then I thought about it a bit more, and tried to draw out the relations&hellip;and actually&hellip;it seems to work, it seems like I can impose some relational structure to what I&rsquo;m trying to do, which in my view is probably worth it in the long run, so to avoid disorderly headaches and what not.</p>
+
+<p>As for which RDBMS to use, I settled on <a href="https://www.postgresql.org/">PostegreSQL</a>, very simply because I had used <a href="https://www.mysql.com/">MySQL</a> in the past and had not enjoyed it, and also because it is open-source which I like to support.</p>
+
+<h2 id="deployment">Deployment</h2>
+
+<p>I don&rsquo;t expect the site to have a lot of traffic if at all to start with (or ever, lol), so I was looking for cheap options that I could scale relatively easily, before perhaps moving on to a different service in the case that the project does catch on.</p>
+
+<p>After considering a <a href="https://www.digitalocean.com/">variety</a> of <a href="https://www.bluehost.com/">options</a>, deciding between cloud platforms, shared hosting, etc., I ended up settling on <a href="https://www.heroku.com/">Heroku</a>, whose <a href="https://devcenter.heroku.com/articles/free-dyno-hours">1000 free monthly dyno hours for verified members</a> won me over.</p>
+
+<p>As for registering the domain, I opted for <a href="https://www.namecheap.com/">Namecheap</a> which I utilized for this website as well and have so far had a good experience with.</p>
+
+<hr />
+
+<p>That&rsquo;s more or less it for the tech stack. Now that I have everything more or less planned out I can finally get to work. The next steps look like:</p>
+
+<ol>
+<li>Wireframe</li>
+<li>Back-end + DB</li>
+<li>Branding</li>
+<li>Front-end</li>
+<li>Deployment</li>
+</ol>
+
+<p>Here it goes!</p>
+
+      </div>
+
+      <footer>
+        
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "giuliostarace" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+     © 2019
+    
+       · 
+      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-143281261-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  </body>
+
+</html>
