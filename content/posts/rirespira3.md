@@ -4,6 +4,7 @@ date= 2019-08-28
 draft= false
 slug="rirespira-3-re-think"
 tags= ["project", "rirespira", "devblog"]
+series = ["rirespira"]
 +++
 
 So, it's been a while. It's been more than a month, in fact, since the last time I committed anything to my _Rirespira_ git repository, which includes planning documents.

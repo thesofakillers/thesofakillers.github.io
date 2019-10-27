@@ -5,6 +5,7 @@ title = "Rirespira DevBlog 4 | Hiatus"
 description = ""
 slug = "rirespira-4-hiatus" 
 tags = ["project", "rirespira", "devblog"]
+series = ["rirespira"]
 +++
 
 I'm placing the _Rirespira_ project on hold to make space for other more feasible, quicker projects.

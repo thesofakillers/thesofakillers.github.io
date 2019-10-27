@@ -90,5 +90,6 @@ url                    = "https://github.com/thesofakillers/CV/raw/master/Giulio
     weight = 5
     url = "giulio.starace@gmail.com"
 [taxonomies]
-  tag = "tags"
   category = "categories"
+  series = "series"
+  tag = "tags"

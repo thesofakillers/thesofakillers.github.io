@@ -4,6 +4,7 @@ date= 2019-07-22
 draft= false
 slug="rirespira-1-concept"
 tags= ["project", "rirespira", "devblog"]
+series = ["rirespira"]
 +++
 
 For the last three years I have been living in the UK, particularly up north in Durham where the climate throughout the year doesn't really lend itself to a strong agricultural economy when it comes to vegetables other than potatoes and carrots.

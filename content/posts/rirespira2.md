@@ -4,6 +4,7 @@ date= 2019-07-23
 draft= false
 slug="rirespira-2-tech-stack"
 tags= ["project", "rirespira", "devblog"]
+series = ["rirespira"]
 +++
 
 So I have somewhat introduced the [concept](https://www.giuliostarace.com/blog/rirespira-devblog-1--the-concept/) behind _Rirespira_, but how will it be implemented from a technological point of view?
