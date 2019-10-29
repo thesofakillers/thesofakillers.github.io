@@ -44,6 +44,6 @@ The ongoing [2019 Chilean Protests](https://en.wikipedia.org/wiki/2019_Chilean_p
 
 # References
 
-[1] - [Learning to Read and Interpret Network Graph Data Visualizations](https://noduslabs.com/cases/learn-read-interpret-network-graphs-data-visualization/)
-[2] - [Public Digital Sphere Analysis of Yellow Vests Movement](https://www.alto-analytics.com/en_US/public-digital-sphere-analysis-of-yellow-vest-debate/)
-[3] - [Louvain modularity](https://en.wikipedia.org/wiki/Louvain_modularity)
+- [1] - [Learning to Read and Interpret Network Graph Data Visualizations](https://noduslabs.com/cases/learn-read-interpret-network-graphs-data-visualization/)
+- [2] - [Public Digital Sphere Analysis of Yellow Vests Movement](https://www.alto-analytics.com/en_US/public-digital-sphere-analysis-of-yellow-vest-debate/)
+- [3] - [Louvain modularity](https://en.wikipedia.org/wiki/Louvain_modularity)
