@@ -22,3 +22,28 @@ The ongoing [2019 Chilean Protests](https://en.wikipedia.org/wiki/2019_Chilean_p
 - People movement
 - Air quality
 - Looking ahead, measuring impact
+
+## Important Dates
+
+- **general:** 14/10/19 - ongoing
+- **period_1:** 17/10/19 - 26/10/19
+- **period_2:** 28/10/19 - ongoing
+- **climax**: 18/10/19 - 26/10/19
+
+## Morphology of tweets graph
+
+- [steps](https://noduslabs.com/cases/learn-read-interpret-network-graphs-data-visualization/)
+  1. Define graph connectivity
+  2. Cluster graphs
+  3. Identify gaps
+- Characterising a graph
+  - average path length
+  - centrality
+  - density
+- Louvain algorithm
+
+# References
+
+[1] - [Learning to Read and Interpret Network Graph Data Visualizations](https://noduslabs.com/cases/learn-read-interpret-network-graphs-data-visualization/)
+[2] - [Public Digital Sphere Analysis of Yellow Vests Movement](https://www.alto-analytics.com/en_US/public-digital-sphere-analysis-of-yellow-vest-debate/)
+[3] - [Louvain modularity](https://en.wikipedia.org/wiki/Louvain_modularity)
