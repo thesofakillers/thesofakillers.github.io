@@ -36,11 +36,40 @@ The ongoing [2019 Chilean Protests](https://en.wikipedia.org/wiki/2019_Chilean_p
   1. Define graph connectivity
   2. Cluster graphs
   3. Identify gaps
-- Characterising a graph
+- Characterizing a graph
   - average path length
   - centrality
   - density
 - Louvain algorithm
+
+## Origin/Timeline
+
+### Plan
+
+1. Get sample of relevant tweets using twitter search
+   - using filter for date range
+   - using union of keywords
+2. Determine top hashtags from these tweets
+3. Perform Hashtag analysis
+   - tweets over time
+   - retweets over time
+   - whether they are trending
+
+### Relevant Hashtags (off the top of my head)
+
+- #EvasionMasivaTodoElDia
+- #ParoNacionalYa
+- #Cacelorazo
+- #EstadoEmergencia
+- #toquedequeda
+- #ChileDesperto
+- #DespiertaChile
+- #ChileSeCanso
+- #EsoPasaEnChile
+- #ChileSomosTodos
+- #LaMarchaMasGrandeDeChile
+
+Note, these may lean more to one side. Perhaps one side uses twitter more.
 
 # References
 
