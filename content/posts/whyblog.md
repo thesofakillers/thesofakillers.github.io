@@ -40,7 +40,7 @@ The teacher then, of course, teaches the content. There is also [evidence](https
 
 Finally, the teacher observes the students as they attempt to use what they have learnt. This in theory provides feedback to the teacher, indicating potential gaps in their teaching and allowing them to reform their inner understandings of the topic. [Research](https://dl.acm.org/citation.cfm?id=1150108&dl=ACM&coll=DL) on this phase has also found evidence for its usefulness.
 
-Personally, I think that the dialogic nature of explaining also helps. Humans are inherently social creatures, and I can only imagine that our brains work best when stimulated socially. Interestingly, Derek Mueller of [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) on YouTube found in his [PhD thesis](<http://www.physics.usyd.edu.au/super/theses/PhD(Muller).pdf>) that students who engaged in dialogue-based forms of learnng outperformed others.
+Personally, I think that the dialogic nature of explaining also helps. Humans are inherently social creatures, and I can only imagine that our brains work best when stimulated socially. Interestingly, Derek Mueller of [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) on YouTube found in his [PhD thesis](<http://www.physics.usyd.edu.au/super/theses/PhD(Muller).pdf>) that students who engaged in dialogue-based forms of learning outperformed others.
 
 With a public blog, I finally have a place to use to explain topics that I'm currently learning, forcing me to be rigorous and clear, and to obtain a deeper understanding in doing so.
 
