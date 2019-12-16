@@ -88,7 +88,7 @@ url                    = "https://github.com/thesofakillers/CV/raw/master/Giulio
     name = "Mail"
     icon = "fas fa-envelope fa-2x"
     weight = 5
-    url = "giulio.starace@gmail.com"
+    url = "mailto:giulio.starace@gmail.com"
 [taxonomies]
   category = "categories"
   series = "series"
