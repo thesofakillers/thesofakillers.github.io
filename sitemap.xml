@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.giuliostarace.com/tags/devblog/</loc>
-    <lastmod>2019-10-26T21:53:41-03:00</lastmod>
+    <loc>https://www.giuliostarace.com/</loc>
+    <lastmod>2019-11-20T19:26:13-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.giuliostarace.com/</loc>
+    <loc>https://www.giuliostarace.com/projects/gptrue-or-false/</loc>
+    <lastmod>2019-11-20T19:26:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.giuliostarace.com/projects/</loc>
+    <lastmod>2019-11-20T19:26:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.giuliostarace.com/tags/devblog/</loc>
     <lastmod>2019-10-26T21:53:41-03:00</lastmod>
   </url>
   
@@ -45,11 +55,6 @@
   <url>
     <loc>https://www.giuliostarace.com/tags/</loc>
     <lastmod>2019-10-26T21:53:41-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.giuliostarace.com/projects/</loc>
-    <lastmod>2019-08-28T15:50:49-04:00</lastmod>
   </url>
   
   <url>
