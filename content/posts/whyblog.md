@@ -22,7 +22,7 @@ But then I remembered [doing YouTube back in the day](https://www.youtube.com/wa
 
 So then I thought, "hey, you know what you've been thinking of doing lately?" "what?" "A personal website" "yea like for a portfolio, and?" "and you know how you've been reading all those blogposts on [Medium](https://medium.com/)?" "yea..?" "Why don't you just add a blog element to your website for your thoughts?"
 
-<center>**ohhh.**</center>
+<center><i>ohhh.</i></center>
 
 And here we are now. With a fully public website open to the eyes of the entire world, I am ready to grab my reflections by the collar and sort them out so that they are _understandable_ and _fair_. I am also hopeful that in doing so, I will be able to free these speculations from their purgatory state and reach actual conclusions, or at least move closer to a better understanding.
 
