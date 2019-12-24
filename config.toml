@@ -93,3 +93,7 @@ url                    = "https://github.com/thesofakillers/CV/raw/master/Giulio
   category = "categories"
   series = "series"
   tag = "tags"
+
+# render raw html
+[markup.goldmark.renderer]
+unsafe= true
