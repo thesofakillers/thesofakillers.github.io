@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Giulio Starace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2019 21:53:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 17:05:26 +0100</lastBuildDate>
     
 	<atom:link href="https://www.giuliostarace.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interning at ESO&#39;s Paranal Observatory</title>
+      <link>https://www.giuliostarace.com/posts/interning-at-eso/</link>
+      <pubDate>Wed, 29 Jan 2020 17:05:26 +0100</pubDate>
+      
+      <guid>https://www.giuliostarace.com/posts/interning-at-eso/</guid>
+      <description>Almost a year ago today, I was hastily finishing the motivational letter required for consideration in ESO&amp;rsquo;s 2019 winter internship programme, just a few hours before the deadline.
+A few days later, I was working through a Skype interview with my future supervisors.
+Perhaps a week after that, I had secured a place as a 6 month software engineering intern in the Information and Knowledge Management group at Paranal Observatory in the Atacama desert in Chile.</description>
+    </item>
     
     <item>
       <title>Rirespira DevBlog 4 | Hiatus</title>
@@ -17,25 +28,25 @@
       <pubDate>Sat, 26 Oct 2019 21:53:41 -0300</pubDate>
       
       <guid>https://www.giuliostarace.com/posts/rirespira-4-hiatus/</guid>
-      <description>I&#39;m placing the Rirespira project on hold to make space for other more feasible, quicker projects. I will like to return to it in the future.
-That&#39;s all, a very brief post.</description>
+      <description>I&amp;rsquo;m placing the Rirespira project on hold to make space for other more feasible, quicker projects. I will like to return to it in the future.
+That&amp;rsquo;s all, a very brief post.</description>
     </item>
     
     <item>
       <title>Rirespira DevBlog 3 | Re-think</title>
       <link>https://www.giuliostarace.com/posts/rirespira-3-re-think/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://www.giuliostarace.com/posts/rirespira-3-re-think/</guid>
-      <description>So, it&#39;s been a while. It&#39;s been more than a month, in fact, since the last time I committed anything to my Rirespira git repository, which includes planning documents.
-I&#39;ve been quite busy to say the least; since my last commit I have moved to a new continent and started a 6-month internship which will keep me busy here until the beginning of February.
+      <description>So, it&amp;rsquo;s been a while. It&amp;rsquo;s been more than a month, in fact, since the last time I committed anything to my Rirespira git repository, which includes planning documents.
+I&amp;rsquo;ve been quite busy to say the least; since my last commit I have moved to a new continent and started a 6-month internship which will keep me busy here until the beginning of February.
 Moving to a new continent, on my own, where the language spoken is neither Italian nor English, has definitely taken up quite a bit of my time and energy.</description>
     </item>
     
     <item>
       <title>Rirespira DevBlog 2 | The Tech Stack</title>
       <link>https://www.giuliostarace.com/posts/rirespira-2-tech-stack/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>https://www.giuliostarace.com/posts/rirespira-2-tech-stack/</guid>
       <description>So I have somewhat introduced the concept behind Rirespira, but how will it be implemented from a technological point of view?
@@ -46,21 +57,21 @@ The nature of a browser-based Rirespira will require a front-end, a back-end and
     <item>
       <title>Rirespira DevBlog 1 | The Concept</title>
       <link>https://www.giuliostarace.com/posts/rirespira-1-concept/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>https://www.giuliostarace.com/posts/rirespira-1-concept/</guid>
-      <description>For the last three years I have been living in the UK, particularly up north in Durham where the climate throughout the year doesn&#39;t really lend itself to a strong agricultural economy when it comes to vegetables other than potatoes and carrots.
+      <description>For the last three years I have been living in the UK, particularly up north in Durham where the climate throughout the year doesn&amp;rsquo;t really lend itself to a strong agricultural economy when it comes to vegetables other than potatoes and carrots.
 The result is the presence of a huge proportion of imported vegetables in supermarkets, often from across the Atlantic and often packaged in plastic to prolong their shelf life.</description>
     </item>
     
     <item>
       <title>Why blog?</title>
       <link>https://www.giuliostarace.com/posts/why-blog/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>https://www.giuliostarace.com/posts/why-blog/</guid>
       <description>There is a &amp;ldquo;syndrome&amp;rdquo; I suffer from that could easily be called &amp;ldquo;nebulous thoughts syndrome&amp;rdquo;. In a way, you could describe it as daydreaming. While cooking, showering, walking to classes, walking in general or while doing whatever other random activity, I very often catch my mind drifting, thinking about all sorts of different matters.
-I&#39;m sure we all get caught up in this but for me it ends up being relatively frustrating - I find that because of the hazy nature of these inner discussions, they often do not find any solid conclusions, simply morphing into new topics, often overly emotionally influenced and opinionated, lacking any form of fact-checking and structure.</description>
+I&amp;rsquo;m sure we all get caught up in this but for me it ends up being relatively frustrating - I find that because of the hazy nature of these inner discussions, they often do not find any solid conclusions, simply morphing into new topics, often overly emotionally influenced and opinionated, lacking any form of fact-checking and structure.</description>
     </item>
     
   </channel>
