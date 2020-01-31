@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: giuliostarace.com
-Token: c4aec14fff0f71d8cae8cf657811babf3f97421956b301eb9eb3749b9628cc1c
+Token: 832842a42d51013392ffd6f844a6a70c121cffe737378ebc267aa303e3fde8a3
