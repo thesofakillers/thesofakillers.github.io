@@ -7,7 +7,7 @@ slug="about"
 
 Hi, I'm Giulio, welcome to my personal website!
 
-I was born about {{% age %}} years ago in Rome, Italy, but I'm actually one of those weird [third-culture kids](https://en.wikipedia.org/wiki/Third_culture_kid), having lived in a [few different places](https://drive.google.com/open?id=1ByVrBiG0zU4PPVqlGd1QQJbR2gzAq-Bc&usp=sharing) while growing up due to my parents job.
+I was born about {{% age %}} years ago in Rome, Italy, but I'm actually one of those weird [third-culture kids](https://en.wikipedia.org/wiki/Third_culture_kid), having lived in a [few different places](https://drive.google.com/open?id=1ByVrBiG0zU4PPVqlGd1QQJbR2gzAq-Bc&usp=sharing) while growing up due to my parents' job.
 
 I guess you'd expect someone with that sort of upbringing to make use of their experience to build in career in international relations or modern languages. While I do find languages fascinating, I've always been a science, tech and future enthusiast which is part of why I decided to study [Physics](https://www.dur.ac.uk/physics/undergraduate/courses/bscphys/) at university, switching to [Computer Science and Physics](http://www.maths.dur.ac.uk/php/natural.sciences.php?dept1=comp&dept2=phys&programme=jh_bsc) after my first year.
 

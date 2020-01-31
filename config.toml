@@ -1,4 +1,4 @@
-googleAnalytics     = "UA-143281261-1"
+googleAnalytics = "UA-143281261-1"
 baseURL = "https://www.giuliostarace.com/"
 title = "Giulio Starace"
 theme = "hugo-coder"
