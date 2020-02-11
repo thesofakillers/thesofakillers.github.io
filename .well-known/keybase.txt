@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thesofakillers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.giuliostarace.com
+  * I am thesofakillers (https://keybase.io/thesofakillers) on keybase.
+  * I have a public key ASBBvOceItmt9kjOjgaRMbrZoF_7Fey0EAnLOPEZ35MwfQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012041bce71e22d9adf648ce8e069131bad9a05ffb15ecb41009cb38f119df93307d0a",
+      "host": "keybase.io",
+      "kid": "012041bce71e22d9adf648ce8e069131bad9a05ffb15ecb41009cb38f119df93307d0a",
+      "uid": "6c4181171ed764afbef35687f9ae8b19",
+      "username": "thesofakillers"
+    },
+    "merkle_root": {
+      "ctime": 1581411770,
+      "hash": "1a16460ae74aacd386ef4b9f7aef42fdab76e392e7c054c0fc9484df484069887b23bd9128ad0e4ee31b4143d2ea1cdb7654c63bff985cf3bdaa22f797b5dd31",
+      "hash_meta": "9935abc48e3d2bc0c69dfcf6d72f49a4f57e27a1a6f1a16720ef5f87fd917a95",
+      "seqno": 14564145
+    },
+    "service": {
+      "entropy": "kpGUnvEvwiU8eAiN3llJvjdd",
+      "hostname": "www.giuliostarace.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581411781,
+  "expire_in": 504576000,
+  "prev": "04e26cc44ca514c0c1c5b84b634060f03e338fd36855428d0f8561a01b8f068b",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQbznHiLZrfZIzo4GkTG62aBf+xXstBAJyzjxGd+TMH0Kp3BheWxvYWTESpcCB8QgBOJsxEylFMDBxbhLY0Bg8D4zj9NoVUKND4VhoBuPBovEINnQEAO4VmYGEY01iBvvsHSf2ZP5HP4SmC66rl1uChH9AgHCo3NpZ8RAW4/BN8TWjC5CiZHgefkP22hhznYpk1sUG0JLJpQToBpdKJZ6F8worhmUd52mBCrHydht+Y33nn+5782sD4y3BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKRNJQiafQgIRsj8RdFcSmRuO//uPLlJC3WpWpp9xt0+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thesofakillers
+
+==================================================================
