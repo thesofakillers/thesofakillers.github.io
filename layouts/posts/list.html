@@ -3,7 +3,6 @@
 {{ define "content" }}
 <section class="container list">
   <h1 class="title">{{ .Title }}</h1>
-  Some of my thoughts, hopefully coherent.
   <ul>
     {{- range .Paginator.Pages -}}
     {{- .Render "li" -}}
