@@ -1,7 +1,7 @@
 +++
 title= "Rirespira DevBlog 2 | The Tech Stack"
 date= 2019-07-23
-draft= false
+draft= true 
 slug="rirespira-2-tech-stack"
 tags= ["project", "rirespira", "devblog"]
 series = ["rirespira"]

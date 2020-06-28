@@ -1,7 +1,7 @@
 +++
 title= "Rirespira DevBlog 1 | The Concept"
 date= 2019-07-22
-draft= false
+draft= true
 slug="rirespira-1-concept"
 tags= ["project", "rirespira", "devblog"]
 series = ["rirespira"]
