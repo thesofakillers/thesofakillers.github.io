@@ -21,7 +21,7 @@ blog  = "blog/:slug/"
 
 
 [[menu.main]]
-name                   = "About Me"
+name                   = "About"
 weight                 = 1
 identifier             = "about"
 url                    = "/about/"
