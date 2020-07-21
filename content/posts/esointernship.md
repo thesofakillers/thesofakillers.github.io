@@ -1,9 +1,9 @@
-+++ 
-title = "Interning at ESO's Paranal Observatory"
-draft = false
-date = 2020-01-29T17:05:26+01:00
-slug = "interning-at-eso"
-+++
+--- 
+title: "Interning at ESO's Paranal Observatory"
+draft: false
+date: 2020-01-29T17:05:26+01:00
+slug: "interning-at-eso"
+---
 
 Almost a year ago today, I was hastily finishing the motivational letter required for consideration in ESO's 2019 winter internship programme, just a few hours before the deadline.
 

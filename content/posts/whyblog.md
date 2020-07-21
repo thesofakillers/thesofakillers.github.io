@@ -1,10 +1,10 @@
-+++
-title= "Why blog?"
-date= 2019-07-08T17:05:26+01:00
-draft= false
-slug="why-blog"
-tags= ["meta"]
-+++
+---
+title: "Why blog?"
+date: 2019-07-08T17:05:26+01:00
+draft: false
+slug: "why-blog"
+tags: ["meta"]
+---
 
 <iframe src="https://open.spotify.com/embed/track/1uRxyAup7OYrlh2SHJb80N" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

@@ -1,9 +1,9 @@
-+++
-draft = false 
-date = 2020-06-28T22:51:21+09:00
-title = "How to form Compound Words in German"
-slug = "compound-words-german" 
-+++
+---
+draft: false 
+date: 2020-06-28T22:51:21+09:00
+title: "How to form Compound Words in German"
+slug: "compound-words-german" 
+---
 
 There's a certain
 [trend](https://twitter.com/search?q=%22german%20word%20for%22&src=typed_query&f=live)
