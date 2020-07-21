@@ -2,7 +2,7 @@
 draft = false 
 date = 2020-06-28T22:51:21+09:00
 title = "How to form Compound Words in German"
-slug = "compound-words-German" 
+slug = "compound-words-german" 
 +++
 
 There's a certain
