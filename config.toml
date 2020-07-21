@@ -10,6 +10,8 @@ defaultcontentlanguage = "en"
 paginate = 10
 canonifyurls = true
 
+enableRobotsTXT = true
+
 pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -50,17 +52,17 @@ disqusShortname = "giuliostarace"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
 
+  hideCredits = false
+  hideCopyright = false
+  
   favicon_32 = "images/favicon-32x32.png"
   favicon_16 = "images/favicon-16x16.png"
 
-  #footercontent = "Enter a text here."
-
-  hidecredits = false
-  hidecopyright = false
-
   rtl = false
   
-  colorscheme = "dark"
+  colorscheme = "auto" 
+  
+  enableTwoMoji = true
 
   math = true
   custom_css = ["css/custom.css"]
@@ -91,6 +93,15 @@ disqusShortname = "giuliostarace"
   icon = "fas fa-envelope fa-2x"
   weight = 5
   url = "mailto:giulio.starace@gmail.com"
+[[params.social]]
+  name = "RSS"
+  icon = "fas fa-rss"
+  weight = 6
+  url = "https://giuliostarace.com/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
+
+
 [taxonomies]
   category = "categories"
   series = "series"
@@ -98,4 +109,4 @@ disqusShortname = "giuliostarace"
 
 # render raw html
 [markup.goldmark.renderer]
-  unsafe= true
+  unsafe = true
