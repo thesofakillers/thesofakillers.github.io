@@ -18,8 +18,7 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "giuliostarace"
 
-[permalinks]
-  posts = "posts/:slug/"
+disablePathToLower = true
 
 [[menu.main]]
   name                   = "About"
