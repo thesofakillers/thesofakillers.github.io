@@ -1,6 +1,6 @@
 +++
 title= "Why blog?"
-date= 2019-07-08
+date= 2019-07-08T17:05:26+01:00
 draft= false
 slug="why-blog"
 tags= ["meta"]
