@@ -39,8 +39,14 @@ disablePathToLower = true
   url                    = "/projects/"
 
 [[menu.main]]
+  name                   = "Knowledge Base"
+  weight                 = 4 
+  identifier             = "knowledge base"
+  url                    = "/kb"
+
+[[menu.main]]
   name                   = "CV"
-  weight                 = 4
+  weight                 = 5 
   identifier             = "curriculum vitae"
   url                    = "/CV/GiulioStarace_CV.pdf"
 
