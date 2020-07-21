@@ -1,96 +1,96 @@
 googleAnalytics = "UA-143281261-1"
 baseURL = "https://www.giuliostarace.com/"
 title = "Giulio Starace"
+
 theme = "hugo-coder"
+
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 paginate = 10
 canonifyurls = true
 
-pygmentsstyle = "bw"
+pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "giuliostarace"
 
-disablePathToLower = true
-
 [permalinks]
-blog  = "blog/:slug/"
-
-
-[[menu.main]]
-name                   = "About"
-weight                 = 1
-identifier             = "about"
-url                    = "/about/"
+  posts = "posts/:slug/"
 
 [[menu.main]]
-name                   = "Blog"
-weight                 = 2
-identifier             = "blog"
-url                    = "/posts/"
+  name                   = "About"
+  weight                 = 1
+  identifier             = "about"
+  url                    = "/about/"
 
 [[menu.main]]
-name                   = "Projects"
-weight                 = 3
-identifier             = "projects"
-url                    = "/projects/"
+  name                   = "Blog"
+  weight                 = 2
+  identifier             = "blog"
+  url                    = "/posts/"
 
 [[menu.main]]
-name                   = "CV"
-weight                 = 4
-identifier             = "curriculum vitae"
-url                    = "/CV/GiulioStarace_CV.pdf"
+  name                   = "Projects"
+  weight                 = 3
+  identifier             = "projects"
+  url                    = "/projects/"
 
+[[menu.main]]
+  name                   = "CV"
+  weight                 = 4
+  identifier             = "curriculum vitae"
+  url                    = "/CV/GiulioStarace_CV.pdf"
 
 [params]
-    author = "Giulio Starace"
-    info = "Organizing my Thoughts"
-    description = "Giulio Starace's personal website"
-    keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+  author = "Giulio Starace"
+  info = "Organizing my Thoughts"
+  description = "Giulio Starace's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "images/favicon-32x32.png"
-    favicon_16 = "images/favicon-16x16.png"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
 
-    #footercontent = "Enter a text here."
+  #footercontent = "Enter a text here."
 
-    hidecredits = false
-    hidecopyright = false
+  hidecredits = false
+  hidecopyright = false
 
-    rtl = false
+  rtl = false
+  
+  colorscheme = "dark"
 
-    math = true
-    custom_css = ["css/custom.css"]
+  math = true
+  custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/thesofakillers/"
+  name = "Github"
+  icon = "fab fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/thesofakillers/"
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
-    weight = 2
-    url = "https://linkedin.com/in/giuliostarace/"
+  name = "LinkedIn"
+  icon = "fab fa-linkedin fa-2x"
+  weight = 2
+  url = "https://linkedin.com/in/giuliostarace/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/thesofakillers/"
+  name = "Twitter"
+  icon = "fab fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/thesofakillers/"
 [[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram fa-2x"
-    weight = 4
-    url = "https://instagram.com/thesofakillers/"
+  name = "Instagram"
+  icon = "fab fa-instagram fa-2x"
+  weight = 4
+  url = "https://instagram.com/thesofakillers/"
 [[params.social]]
-    name = "Mail"
-    icon = "fas fa-envelope fa-2x"
-    weight = 5
-    url = "mailto:giulio.starace@gmail.com"
+  name = "Mail"
+  icon = "fas fa-envelope fa-2x"
+  weight = 5
+  url = "mailto:giulio.starace@gmail.com"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -98,4 +98,4 @@ url                    = "/CV/GiulioStarace_CV.pdf"
 
 # render raw html
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe= true
