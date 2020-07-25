@@ -8,7 +8,7 @@ slug: "knowledge-base"
 ---
 
 **TLDR**: I have started a Personal Knowledge Base to improve the quality of
-my learning. It is reachable [here](/kb)
+my learning. It is reachable [here](https://notes.giuliostarace.com)
 
 ---
 
@@ -62,5 +62,5 @@ I still have to get fully accustomed to the Zettelkastenphilosophie but have
 decided to dive in and started my own Zettelkasten (paper box), as my knowledge
 base. I try to [default to open](https://en.wikipedia.org/wiki/Open_by_default), so I plan to share as much of my Zettelkasten as possible, in case anyone else may find it of use in the future. 
 
-As such, [my Zettelkasten will be accessible from my website to the world](/kb). It is
+As such, [my Zettelkasten will be accessible from my website to the world](https://notes.giuliostarace.com). It is
 empty now, but hopefully now that I have set it up, it will soon fill up.

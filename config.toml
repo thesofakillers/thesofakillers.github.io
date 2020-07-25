@@ -39,10 +39,10 @@ disablePathToLower = true
   url                    = "/projects/"
 
 [[menu.main]]
-  name                   = "Knowledge Base"
+  name                   = "Notes"
   weight                 = 4 
-  identifier             = "knowledge base"
-  url                    = "/kb"
+  identifier             = "notes"
+  url                    = "https://notes.giuliostarace.com"
 
 [[menu.main]]
   name                   = "CV"
