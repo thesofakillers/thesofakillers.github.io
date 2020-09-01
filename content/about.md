@@ -15,6 +15,6 @@ After experiencing and enjoying a bit of the world of software development, at
 the moment I'm trying to move my career towards research, particularly in the
 field of Machine Learning, while keeping a door open to OSS development.
 
-The purpose of this website is to officially collect information on myself in a single place, which I can also use as a platform for [blogging](/posts/why-blog) and my [portfolio](/projects/). More info will probably seep in through other pages so I will leave it there. Thank you!
+The purpose of this website is to officially collect information on myself in a single place, which I can also use as a platform for [blogging](/posts/why-blog/) and my [portfolio](/projects/). More info will probably seep in through other pages so I will leave it there. Thank you!
 
 {{< figure src="/images/cover.JPG" caption="Me in the Atacama :)" >}}
