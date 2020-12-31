@@ -48,7 +48,7 @@ disablePathToLower = true
   name                   = "CV"
   weight                 = 5 
   identifier             = "curriculum vitae"
-  url                    = "/CV/GiulioStarace_CV.pdf"
+  url                    = "/cv/GiulioStarace_CV.pdf"
 
 [params]
   author = "Giulio Starace"
