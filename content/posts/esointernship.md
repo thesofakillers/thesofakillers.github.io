@@ -29,8 +29,6 @@ What this means is that there always needs to be someone on site, and given its 
 
 Instead, employees at Paranal typically work for 8 consecutive days, and then have a rest period of 6 days. While in their work shift, the workday starts at 8:00 and ends at 19:00, with an hour break at lunch. Some of the staff (mostly astronomers) work during the night instead of during the day. This structure ensures that there is always someone active and ready to respond to issues, keeping the observatory operational, while not going over a 40 hr/week average of work for the employees.
 
-{{< instagram B5SkQjLJ7yt hidecaption >}}
-
 ### Getting to Paranal
 
 Paranal Observatory is in the Atacama Desert in Chile, about 2 hours away from the Pacific-facing city of Antofagasta. It's kind of in the middle of nowhere.
