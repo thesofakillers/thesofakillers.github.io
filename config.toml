@@ -20,97 +20,88 @@ disqusShortname = "giuliostarace"
 disablePathToLower = true
 
 [[menu.main]]
-  name                   = "About"
-  weight                 = 1
-  identifier             = "about"
-  url                    = "/about/"
+name = "About"
+weight = 1
+identifier = "about"
+url = "/about/"
 
 [[menu.main]]
-  name                   = "Blog"
-  weight                 = 2
-  identifier             = "blog"
-  url                    = "/posts/"
+name = "Blog"
+weight = 2
+identifier = "blog"
+url = "/posts/"
 
 [[menu.main]]
-  name                   = "Projects"
-  weight                 = 3
-  identifier             = "projects"
-  url                    = "/projects/"
+name = "Projects"
+weight = 3
+identifier = "projects"
+url = "/projects/"
 
 [[menu.main]]
-  name                   = "Notes"
-  weight                 = 4 
-  identifier             = "notes"
-  url                    = "https://notes.giuliostarace.com"
+name = "Notes"
+weight = 4
+identifier = "notes"
+url = "https://notes.giuliostarace.com"
 
 [[menu.main]]
-  name                   = "CV"
-  weight                 = 5 
-  identifier             = "curriculum vitae"
-  url                    = "/cv/GiulioStarace_CV.pdf"
+name = "CV"
+weight = 5
+identifier = "curriculum vitae"
+url = "/cv/GiulioStarace_CV.pdf"
 
 [params]
-  author = "Giulio Starace"
-  info = "Organizing my Thoughts"
-  description = "Giulio Starace's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/4v4t4r.jpg"
+author = "Giulio Starace"
+description = "Giulio Starace's personal website"
+keywords = "blog,developer,personal"
+avatarurl = "http://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400"
 
-  hideCredits = false
-  hideCopyright = false
-  
-  favicon_32 = "images/favicon-32x32.png"
-  favicon_16 = "images/favicon-16x16.png"
+hideCredits = false
+hideCopyright = false
 
-  rtl = false
-  
-  colorscheme = "auto" 
-  
-  enableTwoMoji = true
+favicon_32 = "http://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=32"
+favicon_16 = "http://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=16"
 
-  math = true
-  custom_css = ["css/custom.css"]
+rtl = false
+
+colorscheme = "auto"
+
+enableTwoMoji = true
+
+math = true
+custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
-  name = "Github"
-  icon = "fab fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/thesofakillers/"
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/thesofakillers/"
 [[params.social]]
-  name = "LinkedIn"
-  icon = "fab fa-linkedin fa-2x"
-  weight = 2
-  url = "https://linkedin.com/in/giuliostarace/"
+name = "LinkedIn"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://linkedin.com/in/giuliostarace/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fab fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/thesofakillers/"
+name = "Mail"
+icon = "fa fa-envelope fa-2x"
+weight = 5
+url = "mailto:giulio.starace@gmail.com"
+rel = "alternate"
+type = "application/rss+xml"
 [[params.social]]
-  name = "Instagram"
-  icon = "fab fa-instagram fa-2x"
-  weight = 4
-  url = "https://instagram.com/thesofakillers/"
-[[params.social]]
-  name = "Mail"
-  icon = "fas fa-envelope fa-2x"
-  weight = 5
-  url = "mailto:giulio.starace@gmail.com"
-[[params.social]]
-  name = "RSS"
-  icon = "fas fa-rss"
-  weight = 6
-  url = "https://giuliostarace.com/index.xml"
-  rel = "alternate"
-  type = "application/rss+xml"
+name = "RSS"
+icon = "fa fa-rss fa-2x"
+weight = 6
+url = "https://giuliostarace.com/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
 
 
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+category = "categories"
+series = "series"
+tag = "tags"
 
 # render raw html
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true

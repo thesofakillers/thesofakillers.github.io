@@ -7,29 +7,32 @@ slug="about"
 
 Hi, I'm Giulio, welcome to my personal website!
 
-I was born about {{% age %}} years ago in Rome, Italy, but I'm actually one of
-those weird [third-culture
-kids](https://en.wikipedia.org/wiki/Third_culture_kid), having lived in a [few
-different
-places](https://drive.google.com/open?id=1ByVrBiG0zU4PPVqlGd1QQJbR2gzAq-Bc&usp=sharing)
-while growing up due to my parents' job.
+I am currently a Master's student at the University of Amsterdam, studying
+Artificial Intelligence. In particular, I am interested in prompted
+multi-{modal/lingual} large language models (LLMs) and AI Safety. My current
+thesis direction explores natural language interfaces for goal specification in
+Reinforcement Learning.
 
-I guess you'd expect someone with that sort of upbringing to make use of their
-experience to build in career in international relations or modern languages.
-While I do find languages fascinating, I've always been a science, tech and
-future enthusiast which is part of why I decided to study
-[Physics](https://www.dur.ac.uk/physics/undergraduate/courses/bscphys/) at
-university, switching to [Computer Science and
-Physics](http://www.maths.dur.ac.uk/php/natural.sciences.php?dept1=comp&dept2=phys&programme=jh_bsc)
-after my first year.
+Before the programme, I worked as a software engineer and researcher at a few
+companies, and studied Physics and Computer Science at Durham University for my
+Bachelors. You can find more info on this [on my cv](/cv/GiulioStarace_CV.pdf).
 
-After experiencing and enjoying a bit of the world of software development, at
-the moment I'm trying to move my career towards research, particularly in the
-field of Machine Learning, while keeping a door open to OSS development.
+## A bit more about me
 
-The purpose of this website is to officially collect information on myself in
-a single place, which I can also use as a platform for
-[blogging](/posts/why-blog/) and my [portfolio](/projects/). More info will
-probably seep in through other pages so I will leave it there. Thank you!
+I was born about {{% age %}} years ago in Rome, Italy, but grew up in a few
+other countries due to my parents' career. Outside of my studies, I'm like to
+work on side projects, playing football, bouldering, hiking and playing the
+piano and guitar not very well. I like to talk and think about AI, the future,
+alternative ways of living, transport and city-planning. My favourite artists
+are Monet, Caravaggio, Renoir and probably a few others. For what I listen to,
+checkout my [last.fm](https://www.last.fm/user/giuliostarace) (it's probably
+Radiohead). I want to learn more languages, how to make clothes, and how to
+sail.
+
+## This website
+
+The purpose of this website is to officially collect information on myself in a
+single place, which I can also use as a platform for
+[blogging](/posts/why-blog/) and my [portfolio](/projects/). Thanks!
 
 {{< figure src="/images/cover.JPG" caption="Me in the Atacama :)" >}}
