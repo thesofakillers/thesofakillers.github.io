@@ -20,14 +20,13 @@ Bachelors. You can find more info on this [on my cv](/cv/GiulioStarace_CV.pdf).
 ## A bit more about me
 
 I was born about {{% age %}} years ago in Rome, Italy, but grew up in a few
-other countries due to my parents' career. Outside of my studies, I'm like to
-work on side projects, playing football, bouldering, hiking and playing the
-piano and guitar not very well. I like to talk and think about AI, the future,
-alternative ways of living, transport and city-planning. My favourite artists
-are Monet, Caravaggio, Renoir and probably a few others. For what I listen to,
-checkout my [last.fm](https://www.last.fm/user/giuliostarace) (it's probably
-Radiohead). I want to learn more languages, how to make clothes, and how to
-sail.
+other countries due to my parents' career. Outside of my studies, I like to work
+on side projects, playing football, bouldering, hiking and playing the piano and
+guitar not very well. I like to talk and think about AI, the future, alternative
+ways of living, transport and city-planning. My favourite artists are Monet,
+Caravaggio, Renoir and probably a few others. For what I listen to, checkout my
+[last.fm](https://www.last.fm/user/giuliostarace) (it's probably Radiohead). I
+want to learn more languages, how to make clothes, and how to sail.
 
 ## This website
 
