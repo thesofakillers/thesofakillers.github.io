@@ -32,7 +32,7 @@ identifier = "blog"
 url = "/posts/"
 
 [[menu.main]]
-name = "Projects"
+name = "Personal Projects"
 weight = 3
 identifier = "projects"
 url = "/projects/"
