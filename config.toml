@@ -53,13 +53,13 @@ url = "/cv/GiulioStarace_CV.pdf"
 author = "Giulio Starace"
 description = "Giulio Starace's personal website"
 keywords = "blog,developer,personal"
-avatarurl = "http://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400"
+avatarurl = "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400"
 
 hideCredits = false
 hideCopyright = false
 
-favicon_32 = "http://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=32"
-favicon_16 = "http://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=16"
+favicon_32 = "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=32"
+favicon_16 = "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=16"
 
 rtl = false
 
