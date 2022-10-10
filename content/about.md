@@ -8,14 +8,13 @@ slug="about"
 Hi, I'm Giulio, welcome to my personal website!
 
 I am currently a Master's student at the University of Amsterdam, studying
-Artificial Intelligence. In particular, I am interested in prompted
-multi-{modal/lingual} large language models (LLMs) and AI Safety. My current
-thesis direction explores natural language interfaces for goal specification in
-Reinforcement Learning.
+Artificial Intelligence. I am interested in prompted multi-{modal/lingual} large
+language models (LLMs) and AI Safety. My current thesis direction explores
+natural language interfaces for goal specification in Reinforcement Learning.
 
 Before the programme, I worked as a software engineer and researcher at a few
 companies, and studied Physics and Computer Science at Durham University for my
-Bachelors. You can find more info on this [on my cv](/cv/GiulioStarace_CV.pdf).
+Bachelors. For more, checkout [my cv](/cv/GiulioStarace_CV.pdf).
 
 ## A bit more about me
 
