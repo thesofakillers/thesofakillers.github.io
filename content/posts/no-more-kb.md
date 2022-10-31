@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2022-10-31T19:15:04+01:00
-title = "My PKB will longer updated publicly"
+title = "My PKB will no longer updated publicly"
 slug = "no-more-kb" 
 +++
 
