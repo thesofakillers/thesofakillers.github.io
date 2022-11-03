@@ -38,12 +38,6 @@ identifier = "projects"
 url = "/projects/"
 
 [[menu.main]]
-name = "Notes"
-weight = 4
-identifier = "notes"
-url = "https://notes.giuliostarace.com"
-
-[[menu.main]]
 name = "CV"
 weight = 5
 identifier = "curriculum vitae"
