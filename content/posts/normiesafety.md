@@ -1,8 +1,9 @@
-+++ 
++++
 draft = false
 date = 2023-02-27T14:16:16+01:00
 title = "Normie response to Normie AI Safety Skepticism"
-slug = "normie-ai-safety" 
+slug = "normie-ai-safety"
+tags = ["AI Safety"]
 +++
 
 The following post is an adaptation of a
