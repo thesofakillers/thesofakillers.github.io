@@ -141,6 +141,5 @@ Normativity, Asymmetry, and Spatio-temporality in Action. _Adaptive Behavior_.
 [^victoriafeedback]:
     Victoria _had_ to evaluate it as part of my application, and said the
     following: "your definition of agency was a bit circular - you defined
-
     agency in terms of autonomy, and autonomy in terms of not needing an
     external agent." I agree this is valid criticism.
