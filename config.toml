@@ -62,7 +62,7 @@ colorscheme = "auto"
 enableTwoMoji = true
 
 math = true
-custom_css = ["css/custom.css"]
+customCSS = ["css/custom.css"]
 
 # Social links
 [[params.social]]
