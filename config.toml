@@ -76,6 +76,11 @@ icon = "fa fa-linkedin fa-2x"
 weight = 2
 url = "https://linkedin.com/in/giuliostarace/"
 [[params.social]]
+name = "Google Scholar"
+icon = "fa fa-graduation-cap fa-2x"
+weight = 5
+url = "https://scholar.google.com/citations?hl=en&user=S57H0dgAAAAJ"
+[[params.social]]
 name = "Mail"
 icon = "fa fa-envelope fa-2x"
 weight = 5
