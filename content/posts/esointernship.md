@@ -1,37 +1,64 @@
---- 
+---
 title: "Interning at ESO's Paranal Observatory"
 draft: false
 date: 2020-01-29T17:05:26+01:00
 slug: "interning-at-eso"
 ---
 
-Almost a year ago today, I was hastily finishing the motivational letter required for consideration in ESO's 2019 winter internship programme, just a few hours before the deadline.
+Almost a year ago today, I was hastily finishing the motivational letter
+required for consideration in ESO's 2019 winter internship programme, just a few
+hours before the deadline.
 
-A few days later, I was working through a Skype interview with my future supervisors.
+A few days later, I was working through a Skype interview with my future
+supervisors.
 
-Perhaps a week after that, I had secured a place as a 6 month software engineering intern in the Information and Knowledge Management group at Paranal Observatory in the Atacama desert in Chile.
+Perhaps a week after that, I had secured a place as a 6 month software
+engineering intern in the Information and Knowledge Management group at Paranal
+Observatory in the Atacama desert in Chile.
 
 _Wow, that was fast._
 
-Thrilled, and with frankly quite a bit of other things on my mind (I was in the midst of revision for my final undergraduate exams), I searched for articles, YouTube videos, blogposts, ANYTHING, discussing life at the observatory from a non-corporate, and ideally intern's point of view. Unfortunately, and perhaps unsurprisingly, I could not find anything.
+Thrilled, and with frankly quite a bit of other things on my mind (I was in the
+midst of revision for my final undergraduate exams), I searched for articles,
+YouTube videos, blogposts, ANYTHING, discussing life at the observatory from a
+non-corporate, and ideally intern's point of view. Unfortunately, and perhaps
+unsurprisingly, I could not find anything.
 
-Now that I've completed the internship, I hope this blogpost can provide some insight on what interning at Paranal Observatory is like, and hopefully attract future bright candidates to apply.
+Now that I've completed the internship, I hope this blogpost can provide some
+insight on what interning at Paranal Observatory is like, and hopefully attract
+future bright candidates to apply.
 
 ### Work at Paranal Observatory
 
 ESO's mission statement reads:
 
-> to provide state-of-the-art research facilities to astronomers and astrophysicists, allowing them to conduct front-line science in the best conditions
+> to provide state-of-the-art research facilities to astronomers and
+> astrophysicists, allowing them to conduct front-line science in the best
+> conditions
 
-The key word in this statement is _provide_. ESO's observatory's role is to provide the instruments and facilities for astronomers across the globe to conduct their research. What this means, is that time is among the most valuable resources at the observatories, including Paranal. Each observatory has at their top of their priority to maximize the amount of time they stay operational. Paranal Observatory is in fact operational 24 / 7.
+The key word in this statement is _provide_. ESO's observatory's role is to
+provide the instruments and facilities for astronomers across the globe to
+conduct their research. What this means, is that time is among the most valuable
+resources at the observatories, including Paranal. Each observatory has at their
+top of their priority to maximize the amount of time they stay operational.
+Paranal Observatory is in fact operational 24 / 7.
 
-What this means is that there always needs to be someone on site, and given its location, this requires the observatory to follow shifts rather than your traditional 5-2 work-rest week format.
+What this means is that there always needs to be someone on site, and given its
+location, this requires the observatory to follow shifts rather than your
+traditional 5-2 work-rest week format.
 
-Instead, employees at Paranal typically work for 8 consecutive days, and then have a rest period of 6 days. While in their work shift, the workday starts at 8:00 and ends at 19:00, with an hour break at lunch. Some of the staff (mostly astronomers) work during the night instead of during the day. This structure ensures that there is always someone active and ready to respond to issues, keeping the observatory operational, while not going over a 40 hr/week average of work for the employees.
+Instead, employees at Paranal typically work for 8 consecutive days, and then
+have a rest period of 6 days. While in their work shift, the workday starts at
+8:00 and ends at 19:00, with an hour break at lunch. Some of the staff (mostly
+astronomers) work during the night instead of during the day. This structure
+ensures that there is always someone active and ready to respond to issues,
+keeping the observatory operational, while not going over a 40 hr/week average
+of work for the employees.
 
 ### Getting to Paranal
 
-Paranal Observatory is in the Atacama Desert in Chile, about 2 hours away from the Pacific-facing city of Antofagasta. It's kind of in the middle of nowhere.
+Paranal Observatory is in the Atacama Desert in Chile, about 2 hours away from
+the Pacific-facing city of Antofagasta. It's kind of in the middle of nowhere.
 
 {{% center %}}
 
@@ -39,11 +66,19 @@ Paranal Observatory is in the Atacama Desert in Chile, about 2 hours away from t
 
 {{% /center %}}
 
-ESO, I imagine, is aware that this isn't exactly right around the corner for most applicants, and at least in my case, provided economy-class travel to and from the Observatory.
+ESO, I imagine, is aware that this isn't exactly right around the corner for
+most applicants, and at least in my case, provided economy-class travel to and
+from the Observatory.
 
-This included the flights to and from Europe at the start and end of the internship, as well as flights between Antofagasta and Santiago (you can choose to live in Santiago, e.g.), a private ESO bus between Antofagasta and the Observatory and private taxis between the airport and your accommodation in Santiago.
+This included the flights to and from Europe at the start and end of the
+internship, as well as flights between Antofagasta and Santiago (you can choose
+to live in Santiago, e.g.), a private ESO bus between Antofagasta and the
+Observatory and private taxis between the airport and your accommodation in
+Santiago.
 
-From Europe the journey to Santiago is roughly 13 hours at best (i.e. with direct flights). Flights between Santiago and Antofagasta are about 2 hours long, and the bus from Antofagasta to the Observatory is an additional 2 hours.
+From Europe the journey to Santiago is roughly 13 hours at best (i.e. with
+direct flights). Flights between Santiago and Antofagasta are about 2 hours
+long, and the bus from Antofagasta to the Observatory is an additional 2 hours.
 
 {{% center %}}
 
@@ -53,7 +88,14 @@ From Europe the journey to Santiago is roughly 13 hours at best (i.e. with direc
 
 ### Life at Paranal Observatory
 
-Because the observatory is in the middle of nowhere, and the workday is 10 hours long, people live in the observatory when busy with their work shift. Despite being in the middle of the dryest desert in the world, the observatory offers a lot of facilities and services, probably to make up for the long work hours. There is a caffeteria with fantastic food (empanadas on Saturdays, BBQ on Sundays), a gym, a cinema room, a music room, a swimming pool and even a sauna. Each employee has their own ensuite room with a vert peaceful view of the desert. Apart from the long work hours, life at Paranal is quite comfortable.
+Because the observatory is in the middle of nowhere, and the workday is 10 hours
+long, people live in the observatory when busy with their work shift. Despite
+being in the middle of the dryest desert in the world, the observatory offers a
+lot of facilities and services, probably to make up for the long work hours.
+There is a caffeteria with fantastic food (empanadas on Saturdays, BBQ on
+Sundays), a gym, a cinema room, a music room, a swimming pool and even a sauna.
+Each employee has their own ensuite room with a vert peaceful view of the
+desert. Apart from the long work hours, life at Paranal is quite comfortable.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
@@ -81,13 +123,40 @@ Because the observatory is in the middle of nowhere, and the workday is 10 hours
 
 ### My time at Paranal
 
-TLDR: full-stack software engineering entirely based on JavaScript, nothing to do with astronomy.
+TLDR: full-stack software engineering entirely based on JavaScript, nothing to
+do with astronomy.
 
-I'm not sure how in depth I can go with regards to what I was effectively doing at the observatory. What I can say is that I was part of the newly formed Information and Knowledge Management group, which was created to modernize how knowledge and information are handled at the observatory. A lot of people assume that all work done at an observatory is directly related to astronomy. The reality is that there are many moving parts that need addressing before actual astronomy can be done. The work of this group consists in a lot of decisions regarding the design of the systems at the observatory and how their data is presented to and can be found by the relevant users. Of course, once these decisions are made, some of them require some more technical work to implement them. This is where a software engineer or more step in to take care of the technical implementation.
+I'm not sure how in depth I can go with regards to what I was effectively doing
+at the observatory. What I can say is that I was part of the newly formed
+Information and Knowledge Management group, which was created to modernize how
+knowledge and information are handled at the observatory. A lot of people assume
+that all work done at an observatory is directly related to astronomy. The
+reality is that there are many moving parts that need addressing before actual
+astronomy can be done. The work of this group consists in a lot of decisions
+regarding the design of the systems at the observatory and how their data is
+presented to and can be found by the relevant users. Of course, once these
+decisions are made, some of them require some more technical work to implement
+them. This is where a software engineer or more step in to take care of the
+technical implementation.
 
-The latter of these is where my responsibility mostly lay. I worked on the modernization of part of the observatory's [issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system), designing, testing, developing, documenting and deploying a new interface for users to find their relevant tickets more easily, within [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams). The project was entirely based on JavaScript as requested, of course accompanied by SQL. The internship allowed me to improve my programming, while cementing my knowledge of [NodeJS](https://en.wikipedia.org/wiki/Node.js) and the web, becoming newly exposed to frameworks and technologies such as [Vue](https://vuejs.org/), [JSDoc](https://devdocs.io/jsdoc/) and [Swagger](https://www.google.com/search?client=ubuntu&channel=fs&q=swagger&ie=utf-8&oe=utf-8), and solidifying my familiarity with [Jest](https://jestjs.io/) and [Express](https://expressjs.com/).
+The latter of these is where my responsibility mostly lay. I worked on the
+modernization of part of the observatory's
+[issue tracking system](https://en.wikipedia.org/wiki/Issue_tracking_system),
+designing, testing, developing, documenting and deploying a new interface for
+users to find their relevant tickets more easily, within
+[Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams). The project
+was entirely based on JavaScript as requested, of course accompanied by SQL. The
+internship allowed me to improve my programming, while cementing my knowledge of
+[NodeJS](https://en.wikipedia.org/wiki/Node.js) and the web, becoming newly
+exposed to frameworks and technologies such as [Vue](https://vuejs.org/),
+[JSDoc](https://devdocs.io/jsdoc/) and
+[Swagger](https://www.google.com/search?client=ubuntu&channel=fs&q=swagger&ie=utf-8&oe=utf-8),
+and solidifying my familiarity with [Jest](https://jestjs.io/) and
+[Express](https://expressjs.com/).
 
-Overall, it was basically a full-stack software engineering role, with backend, testing, frontend and deployment aspects all covered throughout. A very formative experience.
+Overall, it was basically a full-stack software engineering role, with backend,
+testing, frontend and deployment aspects all covered throughout. A very
+formative experience.
 
 ---
 
