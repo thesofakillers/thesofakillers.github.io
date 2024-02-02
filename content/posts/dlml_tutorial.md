@@ -1,12 +1,14 @@
 +++
 draft = false
 date = 2023-05-25T15:45:23+02:00
-title = "Discretized Logistic Mixture Likelihood - The Why, What and How"
+title = "Discretized Logistic Mixture Likelihood"
 description = "An explanation of the Discretized Logistic Mixture Likelihood, first introduced in the PixelCNN++ paper"
 slug = "dlml-tutorial"
 tags = []
 math=true
 +++
+
+## The Why, What, and How
 
 In this post I will explain what the Discretized Logistic Mixture Likelihood
 (DLML)[^1] is. This is a modeling method particularly relevant to my MSc thesis,
