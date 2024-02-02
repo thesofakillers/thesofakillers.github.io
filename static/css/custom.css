@@ -1,3 +1,21 @@
-p, li {
+p,
+li {
   text-align: justify;
+}
+
+.post-list-links {
+  display: flex; /* Enables Flexbox */
+  justify-content: center; /* Centers items horizontally */
+  flex-wrap: wrap; /* Allows items to wrap onto multiple lines */
+}
+
+.post-list-links ul {
+  list-style: none; /* Removes default list styling */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Removes default margin */
+  display: flex; /* Enables Flexbox for the list */
+}
+
+.post-list-links ul li {
+  margin: 5px; /* Adds some space around each item */
 }

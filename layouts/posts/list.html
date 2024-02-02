@@ -1,0 +1,23 @@
+{{ define "title" }}
+  {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <section class="container list">
+    <h1 class="title"> {{ title (i18n (lower .Title)) | default .Title }} </h1>
+    {{ .Content }}
+    <ul>
+      {{- range .Paginator.Pages -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+    <div class="post-list-links">
+      <ul>
+          <li><a class="title" href="{{ "tags/" | relLangURL }}">Tags</a>;</li>
+          <li><a class="title" href="{{ "series/" | relLangURL }}">Series</a>;</li>
+          <li><a class="title" href="{{ "categories/" | relLangURL }}">Categories</a></li>
+      </ul>
+    </div>
+  </section>
+{{ end }}
