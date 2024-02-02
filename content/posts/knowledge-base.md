@@ -10,10 +10,11 @@ slug: "knowledge-base"
 **UPDATE 2022/10/31**: See this [post](../no-more-kb) for an update on this.
 
 ---
+
 ---
 
 **TLDR**: I have started a Personal Knowledge Base to improve the quality of my
-learning. It is linked [here](https://notes.giuliostarace.com)
+learning.
 
 ---
 
@@ -70,6 +71,5 @@ base. I try to [default to open](https://en.wikipedia.org/wiki/Open_by_default),
 so I plan to share as much of my Zettelkasten as possible, in case anyone else
 may find it of use in the future.
 
-As such,
-[my Zettelkasten will be accessible from my website to the world](https://notes.giuliostarace.com).
-It is empty now, but hopefully now that I have set it up, it will soon fill up.
+As such, ~~my Zettelkasten will be accessible from my website to the world.~~ It
+is empty now, but hopefully now that I have set it up, it will soon fill up.
