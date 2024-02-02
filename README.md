@@ -14,17 +14,7 @@ found [here](https://github.com/thesofakillers/knowledge-base)
 ## Deployment
 
 As a static website generator, Hugo generates files HTML/CSS/JS to be served on
-the web. These end up in the `public` folder. We actually treat this folder as a
-git submodule, corresponding to my
-[`<USERNAME>.github.io` repository](https://github.com/thesofakillers/thesofakillers.github.io).
-This is to make use of [GitHub pages](https://pages.github.com/) for hosting the
-static files. The same notion is used for hosting the CV and Knowledge Base
-sections of the website.
-
-To deploy, simply run
-
-```
-sh deploy.sh
-```
-
-In the terminal.
+the web. These end up in the `public` folder. Deployment is handled by
+[GitHub Actions](https://github.com/features/actions), triggered on push to the
+`master` branch or manually and configured in
+[`.github/workflows/hugo.yml`](.github/workflows/hugo.yml).
