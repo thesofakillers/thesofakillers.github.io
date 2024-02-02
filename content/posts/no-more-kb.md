@@ -5,9 +5,9 @@ title = "My PKB will no longer updated publicly"
 slug = "no-more-kb" 
 +++
 
-My personal knowledge base will no longer updated publicly. That is, the website
-that I used to share my notes will become stale. In fact, it already has been
-for more than a year. This is for two reasons:
+My [personal knowledge](../knowledge-base)base will no longer updated publicly.
+That is, the website that I used to share my notes will become stale. In fact,
+it already has been for more than a year. This is for two reasons:
 
 1. The main purpose of the original website was to provide me a way of
    visualizing my notes outside of vim. It being public was a bonus. I now use
