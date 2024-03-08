@@ -1,6 +1,6 @@
 +++
 title= "About"
-date= 2024-08-03
+date= 2024-03-08T21:53:41+01:00
 draft= false
 slug="about"
 +++
