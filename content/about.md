@@ -17,7 +17,7 @@ sequential decision making agents through the use of natural language
 interfaces.
 
 I am interested in increasingly general large (multimodal) language models,
-causality and AI safety, where I am focusing my career efforts right now.
+causality, and AI safety, where I am focusing my career efforts right now.
 
 For more of my professional background, checkout
 [my cv](/cv/GiulioStarace_CV.pdf).
