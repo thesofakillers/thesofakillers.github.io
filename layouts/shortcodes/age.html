@@ -1,1 +1,9 @@
-{{sub (int (now.Format "2006")) 1998}}
+{{ $birthdate := time "1998-06-24" }}
+{{ $now := now }}
+{{ $years := sub $now.Year $birthdate.Year }}
+{{ $months := sub (int ($now.Format "1")) (int ($birthdate.Format "1")) }}
+{{ $days := sub (int ($now.Format "2")) (int ($birthdate.Format "2")) }}
+{{ if or (lt $months 0) (and (eq $months 0) (lt $days 0)) }}
+  {{ $years = sub $years 1 }}
+{{ end }}
+{{- $years -}}
