@@ -8,16 +8,17 @@ slug="about"
 Hi, I'm Giulio, welcome to my personal website!
 
 I'm currently contracting as a Research Engineer at
-[OpenAI](https://openai.com), where I am working within the Policy research team
-on an eval suite for assessing and tracking model capabilities.
+[OpenAI](https://openai.com), where I am working within
+[Preparedness](https://openai.com/preparedness/) on model evaluations.
 
 Before that, I finished my MSc in Artificial Intelligence at the University of
-Amsterdam. In my thesis, I worked on addressing goal misgeneralization in
-sequential decision making agents through the use of natural language
-interfaces.
+Amsterdam. In my [thesis](https://github.com/thesofakillers/nlgoals), I worked
+on addressing goal misgeneralization in sequential decision making agents
+through the use of natural language interfaces.
 
 I am interested in increasingly general large (multimodal) language models,
-causality, and AI safety, where I am focusing my career efforts right now.
+causality, reasoning and AI safety, where I am focusing my career efforts right
+now.
 
 For more of my professional background, checkout
 [my cv](/cv/GiulioStarace_CV.pdf).
