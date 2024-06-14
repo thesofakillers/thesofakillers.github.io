@@ -2,7 +2,7 @@
 draft = false
 date = 2024-06-13T20:40:58+01:00
 title = "Goal Misgeneralization: Some Formalisms from my MSc Thesis"
-description = "Connecting Goal Misgeneralization to Causal Confusion and Multi-task learning"
+description = "Connecting goal misgeneralization to causal confusion and multi-task learning, and proposing a new definition."
 slug = "goal-misgenerlization"
 tags = ["AI Safety", "Language Models"]
 math=true
