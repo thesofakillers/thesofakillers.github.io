@@ -300,9 +300,10 @@ the phenomenon.
 
 That's all for this excerpt. I hope you found it interesting. I do not claim
 correctness or strong confidence in the ideas here, but figured it could attract
-some interest and gather some peer review. As mentioned you can find the rest of
-the thesis [here](https://github.com/thesofakillers/nlgoals). Thank you very
-much for reading!
+some interest and gather some peer review. This work was carried out between
+Summer 2022 and October 2023 so may be a bit out of date. As mentioned you can
+find the rest of the thesis [here](https://github.com/thesofakillers/nlgoals).
+Thank you very much for reading!
 
 ## References
 
