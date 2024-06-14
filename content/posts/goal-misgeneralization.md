@@ -8,6 +8,9 @@ tags = ["AI Safety", "Language Models"]
 math=true
 +++
 
+> Also posted on LessWrong
+> [here](https://www.lesswrong.com/posts/7XPqssBkfy2gnihCi/goal-misgeneralization-some-formalisms-from-my-msc-thesis).
+
 The following is an edited excerpt from the _Preliminaries_ and _Background_
 sections of my now completed MSc thesis in Artificial Intelligence from the
 University of Amsterdam.
