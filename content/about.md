@@ -3,6 +3,8 @@ title= "About"
 date= 2024-03-08T21:53:41+01:00
 draft= false
 slug="about"
+menu="main"
+url="/"
 +++
 
 Hi, I'm Giulio, welcome to my personal website!
