@@ -1,11 +1,31 @@
-p,
-li {
-  /* text-align: justify; */
-  font-size: 1.1em;
+p {
+  font-size: 1.125rem;
+  margin-block-start: 1em;
+  margin-block-end: 0;
 }
 
-h2{
-  font-size: 2em;
+nav {
+  margin-block-end: 1rem;
+}
+
+.tags {
+  margin-block-start: 1rem;
+}
+
+ul,
+ol {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+h1 {
+  font-size: 2.25rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
 }
 
 body {
