@@ -23,8 +23,9 @@ For more of my professional background and work:
 - [my cv](/cv/GiulioStarace_CV.pdf)
 - [my github](https://github.com/thesofakillers)
 - [my linkedin](https://www.linkedin.com/in/giuliostarace/)
+- [my google scholar](https://scholar.google.com/citations?user=S57H0dgAAAAJ&hl=en)
 
-Please feel free to contact me at giulio[DOT]starace[AT]gmail[DOT]com
+Get in touch at giulio[DOT]starace[AT]gmail[DOT]com
 
 ### A bit more about me
 
