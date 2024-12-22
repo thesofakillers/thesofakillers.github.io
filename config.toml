@@ -11,105 +11,19 @@ enableRobotsTXT = true
 [permalinks]
   blog = "/posts/:slug/"
 
-# defaultcontentlanguage = "en"
-
-# paginate = 10
-# canonifyurls = true
-
-
-# pygmentsstyle = "dracula"
-# pygmentscodefences = true
-# pygmentscodefencesguesssyntax = true
-
-# disqusShortname = "giuliostarace"
-
-# disablePathToLower = true
-
-# [[menu.main]]
-# name = "About"
-# weight = 1
-# identifier = "about"
-# url = "/about/"
-
-# [[menu.main]]
-# name = "Blog"
-# weight = 2
-# identifier = "blog"
-# url = "/posts/"
-
-# [[menu.main]]
-# name = "Personal Projects"
-# weight = 3
-# identifier = "projects"
-# url = "/projects/"
-
-# [[menu.main]]
-# name = "CV"
-# weight = 5
-# identifier = "curriculum vitae"
-# url = "/cv/GiulioStarace_CV.pdf"
 
 [params]
 title = "Giulio Starace"
 description = "Giulio Starace's personal website"
-# keywords = "blog,developer,personal"
-# avatarurl = "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400"
-# images = [
-#   "/images/cover.JPG",
-#   "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400",
-# ]
+images = [
+  "/images/cover.JPG",
+  "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400",
+]
+hideMadeWithLine = true
 
-# hideCredits = false
-# hideCopyright = false
 
 favicon = "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=32"  
 
-# rtl = false
-
-# colorscheme = "auto"
-
-# enableTwoMoji = true
-
-# math = true
-# customCSS = ["/css/custom.css"]
-
-# # Social links
-# [[params.social]]
-# name = "Github"
-# icon = "fa fa-github fa-2x"
-# weight = 1
-# url = "https://github.com/thesofakillers/"
-# [[params.social]]
-# name = "LinkedIn"
-# icon = "fa fa-linkedin fa-2x"
-# weight = 2
-# url = "https://linkedin.com/in/giuliostarace/"
-# [[params.social]]
-# name = "Google Scholar"
-# icon = "fa fa-graduation-cap fa-2x"
-# weight = 5
-# url = "https://scholar.google.com/citations?hl=en&user=S57H0dgAAAAJ"
-# [[params.social]]
-# name = "Mail"
-# icon = "fa fa-envelope fa-2x"
-# weight = 5
-# url = "mailto:giulio.starace@gmail.com"
-# rel = "alternate"
-# type = "application/rss+xml"
-# [[params.social]]
-# name = "RSS"
-# icon = "fa fa-rss fa-2x"
-# weight = 6
-# url = "https://giuliostarace.com/index.xml"
-# rel = "alternate"
-# type = "application/rss+xml"
-
-
-# [taxonomies]
-# category = "categories"
-# series = "series"
-# tag = "tags"
-
-# # render raw html
+# render raw html
 [markup.goldmark.renderer]
 unsafe = true
