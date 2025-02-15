@@ -48,3 +48,7 @@ languages, how to make clothes, and how to sail.
 Inspired by [this website](http://bettermotherfuckingwebsite.com/), this website
 is made with [Hugo](https://gohugo.io/) working off of
 [this theme](https://github.com/janraasch/hugo-bearblog/).
+
+---
+
+<small>what's with the [red links](https://gwern.net/red)?</small>

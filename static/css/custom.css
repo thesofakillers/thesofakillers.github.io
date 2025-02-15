@@ -32,3 +32,35 @@ body {
   font-family: serif;
   max-width: 650px;
 }
+
+/* Default link styles (for navigation, etc) */
+a,
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* Links within paragraphs or main content */
+content a,
+content a:visited {
+  color: #AF0000 !important; /* Dark red for light mode */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Default link styles in dark mode */
+  a,
+  a:visited {
+    color: white !important;
+  }
+  
+  /* Links within paragraphs or main content in dark mode */
+  content a,
+  content a:visited {
+    color: #FF6B6B !important; /* Lighter red for dark mode */
+  }
+}
+
