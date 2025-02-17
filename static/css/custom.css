@@ -36,7 +36,7 @@ body {
 /* Default link styles (for navigation, etc) */
 a,
 a:visited {
-  color: black;
+  color: black !important;
   text-decoration: none;
 }
 
