@@ -12,9 +12,10 @@ Hi, I'm Giulio, welcome to my homepage.
 I'm currently contracting as a Research Engineer at
 [OpenAI](https://openai.com), where I am working within
 [Preparedness](https://openai.com/preparedness/) on model evaluations. See some
-of our work [here](https://github.com/openai/evals/),
+of our work [here](https://openai.com/index/paperbench/),
+[here](https://openai.com/index/mle-bench/),
 [here](https://openai.com/index/introducing-swe-bench-verified/) and
-[here](https://openai.com/index/mle-bench/).
+[here](https://github.com/openai/evals/).
 
 Before that, I finished my MSc in Artificial Intelligence at the University of
 Amsterdam. In my [thesis](https://github.com/thesofakillers/nlgoals), I worked
@@ -36,8 +37,8 @@ I was born about {{< age >}} years ago in Rome, Italy, but grew up in a few
 other countries due to my parents' career. In my free time, I enjoy tinkering on
 side projects, playing football, bouldering, reading and attempting to make
 and/or play music. I like to talk and think about AI, the future, alternative
-ways of living, culture and Italy. My favourite artistic period
-is probably "Modern" (~ 1860 - 1945). For what I listen to, checkout my
+ways of living, culture and Italy. My favourite artistic period is probably
+"Modern" (~ 1860 - 1945). For what I listen to, checkout my
 [last.fm](https://www.last.fm/user/giuliostarace). For what I watch, checkout my
 [letterboxd](https://letterboxd.com/thesofakillers/). For what I read, checkout
 my [goodreads](https://goodreads.com/thesofakillers). I want to learn more
