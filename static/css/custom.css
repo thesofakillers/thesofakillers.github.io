@@ -43,7 +43,7 @@ a:visited {
 /* Links within paragraphs or main content */
 content a,
 content a:visited {
-  color: #AF0000 !important; /* Dark red for light mode */
+  color: #af0000 !important; /* Dark red for light mode */
 }
 
 a:hover {
@@ -56,11 +56,10 @@ a:hover {
   a:visited {
     color: white !important;
   }
-  
+
   /* Links within paragraphs or main content in dark mode */
   content a,
   content a:visited {
-    color: #FF6B6B !important; /* Lighter red for dark mode */
+    color: #ff6b6b !important; /* Lighter red for dark mode */
   }
 }
-
