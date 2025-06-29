@@ -27,3 +27,9 @@ favicon = "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=32"
 # render raw html
 [markup.goldmark.renderer]
 unsafe = true
+
+[privacy]
+  [privacy.x]
+    disable = false
+    enableDNT = true
+    simple = true
