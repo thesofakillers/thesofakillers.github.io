@@ -22,10 +22,10 @@ h1 {
   font-size: 2.25rem;
 }
 h2 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.25;
 }
 
 body {
@@ -46,6 +46,14 @@ content a:visited {
   color: #af0000 !important; /* Dark red for light mode */
 }
 
+blockquote.twitter-tweet {
+  border-left: 4px solid #af0000 !important;
+}
+
+blockquote p {
+  font-size: 0.9rem;
+}
+
 a:hover {
   text-decoration: underline;
 }
@@ -61,5 +69,10 @@ a:hover {
   content a,
   content a:visited {
     color: #ff6b6b !important; /* Lighter red for dark mode */
+  }
+
+  blockquote.twitter-tweet {
+    border-left: 4px solid #ff6b6b !important;
+    color: #aaaaaa;
   }
 }
