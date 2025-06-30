@@ -12,14 +12,14 @@ This essay is about this post of mine from X dot com the everything app:
 {{< x user="thelokasiffers" id="1855651780685603268" >}}
 
 Let me build my thesis step by step, in case the 240-character limit of X dot
-com made my thesis unclear:
+com made it unclear:
 
 1. First, I make a simplifying definition: "Science" is the process of
    describing reality, where describing means finding models that reliably
    explain and predict physical phenomena.
 2. Further simplifying, I assume that the set of models to describe reality is
    finite, so that at some stage it is possible to completely describe reality,
-   i.e. to "solve" science.
+   i.e. to "solve" science, at least in the limit.
 3. If this is true, then any science-faring civilization will ultimately reach
    "science-completeness", the state described in the previous point. This is
    assuming
@@ -30,9 +30,21 @@ com made my thesis unclear:
       limits.
 4. If this is true, then this means that any two science-complete civilizations
    will converge to the same set of models (perhaps expressed differently, but
-   ultimately equivalent).
-5. (TODO drive key point that therefore scientific contributions are ultimately
-   redundant or not uniquely human)
+   ultimately equivalent). This is true even in the absence of other
+   civilizations -- the set of all models is finite and identical, it's just a
+   matter of time.
+5. Scientific knowledge is thus necessarily **universal, non-rival, and
+   non-excludable**. The same fact "belongs" to reality, not to its first
+   discoverer. There is a human _story_ for how Maxwell's equations were
+   established, but the physics they describe is not exclusive to humans, it is
+   the same for everyone. Who discovered it first is arbitrary, the universe
+   does not care about copyright and ownership.
+6. What remains distinctive for a species, then, is everything **not fixed by
+   those universal models**—our stories, aesthetics, value-hierarchies, rituals.
+   Call that remainder **culture = civilisation mod science**. In the limit, it
+   is the only domain where contributions are truly non-redundant and therefore
+   the deepest expression of what it means to be _this_ civilisation—indeed, to
+   be human.
 
 ## Objection Gauntlet
 
