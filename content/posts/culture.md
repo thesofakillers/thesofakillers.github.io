@@ -56,8 +56,54 @@ here.
 
 ## The remainder of science-completeness
 
-(defining culture, the derivation of meaning and what it means to be human and
-why therefore only culture matters in the limit)
+What exactly remains after we achieve science-completeness? If scientific
+knowledge is universal, non-rival, and non-excludable then the distinctiveness
+of any given civilization, what makes that civilization that civilization, must
+ultimately lie entirely outside the scope of science.
+
+I sort of hand-wave this remainder into the term "culture". I do concede that's
+a generous bundling, but when I think about it I find that the word mostly does
+capture what goes on in a civilization outside of science-doing.
+
+To convince myself of this, I found it useful to think of the "types of doing"
+that can be done. There's of course the obvious ones, like making art and
+telling stories. These alone already cover so much. Design, architecture, music,
+film, and entire industries fall under the former; religion, and even the real
+stories of civilizations (history) fall under the latter[^1].
+
+[^1]:
+    Interestingly this implies that the history of science -- the stories behind
+    how scientific discoveries were made -- is part of a civilization's cultural
+    heritage. I think this can be possible while still marginalizing the science
+    itself as non-cultural.
+
+There are then the less obvious candidates: politics, for example, or law. These
+too, appear to me to ultimately be cultural, built upon shared understandings of
+fairness, justice, authority, and freedom. Science can tell us little about
+whether democracy is preferable to monarchy, or whether property rights should
+take precedence over social welfare. Those questions are fundamentally tied to
+the context that bears them, anchored in the values of the citizens that
+constructed those fields, not universal physical truths.
+
+I struggled a bit when it came to engineering. Engineering is _not_ about
+discovering the nature of reality. Engineering is about solving problems using
+our knowledge of reality. I came to the conclusion that engineering, too can be
+viewed as part of culture because it is an artesanal practice: there are design
+decisions, preferences and taste built into any engineering project. Because of
+this, the engineering feats of one civilization will probably look different in
+many ways to those of another, despite possibly solving the same problems.
+
+In general, I'm not sure this remainder is perfect -- there are probably aspects
+of a civilization that fall neither under culture nor science and it's wasted
+effort to try to force everything into one of the two. But I was surprised to
+see how well the boundary worked.
+
+The point I want to drive is this: in the long run, every civilization's
+scientific achievements will overlap completely. There is only one set of
+universal truths to discover. The artifacts and practices that will remain
+distinctive, meaningful, and genuinely unique to a civilization, and will
+ultimately define it, will therefore inevitably be largely if not entirely
+cultural in nature.
 
 ## We can't afford to exclusively culture-max yet
 
