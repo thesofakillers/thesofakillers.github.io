@@ -30,9 +30,9 @@ com made it unclear:
       limits.
 4. If this is true, then this means that any two science-complete civilizations
    will converge to the same set of models (perhaps expressed differently, but
-   ultimately equivalent). This is true even in the absence of other
-   civilizations -- the set of all models is finite and identical, it's just a
-   matter of time.
+   ultimately equivalent). In the absense of multiple civilizations, the point
+   can be expressed as: In terms of science, the end state is identical for any
+   science-faring civilization that fits the assumptions above.
 5. Scientific knowledge is thus necessarily **universal, non-rival, and
    non-excludable**. The same fact "belongs" to reality, not to its first
    discoverer. There is a human _story_ for how Maxwell's equations were
@@ -40,11 +40,11 @@ com made it unclear:
    the same for everyone. Who discovered it first is arbitrary, the universe
    does not care about copyright and ownership.
 6. What remains distinctive for a species, then, is everything **not fixed by
-   those universal models**—our stories, aesthetics, value-hierarchies, rituals.
-   Call that remainder **culture = civilisation mod science**. In the limit, it
-   is the only domain where contributions are truly non-redundant and therefore
-   the deepest expression of what it means to be _this_ civilisation—indeed, to
-   be human.
+   those universal models**—the stories, aesthetics, value-hierarchies, rituals
+   unique to a civilization. Call that remainder **culture = civilisation mod
+   science**. In the limit, it is the only domain where contributions are truly
+   non-redundant and therefore the deepest expression of what it means to be
+   _this_ civilisation—indeed, to be human.
 
 ## Objection Gauntlet
 
