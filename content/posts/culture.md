@@ -137,6 +137,8 @@ prescribe something new.
   makes your neighborhood bar irreplaceable despite serving the same beer as
   everywhere else, that makes a language feel like an intrinsic part of who you
   are rather than just a means of communication.
+- Use cultural output as a measure of wealth (since once all science is solved,
+  the field is leveled)
 - what motivates me: i think we'll be able to gradually take our foot off the
   gas of the science machine as we get closer to science completeness, and ease
   into culture-max. I take pleasure in impactfully moving us towards that
