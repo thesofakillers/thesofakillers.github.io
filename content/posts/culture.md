@@ -130,16 +130,24 @@ prescribe something new.
 (
 
 - implications for the question of "how do we find meaning after work
-- After singularity, when there will no longer be work to do, people will be
-  drawn to cities no longer for career reasons but purely for experience, vibe
-  and your other typical reasons which are usually more culture related
-- what motivates me
-- what to do for culture today -- avoid globalisation into monoculture, protect
-  culture, engage in it, create it, curate it. cultural output not automatically
-  good quality. beauty in eye of beholder up to a certain extent. be cool to
-  study this. maybe after the singularity
+- Consider cities after the singularity. Today, we flock to urban centers for
+  careers, opportunities, economic necessity. Tomorrow, freed from such
+  constraints, we'll be drawn by something else entirely: the vibe, the scene,
+  the particular cultural texture that makes Rome different from Zurich, that
+  makes your neighborhood bar irreplaceable despite serving the same beer as
+  everywhere else, that makes a language feel like an intrinsic part of who you
+  are rather than just a means of communication.
+- what motivates me: i think we'll be able to gradually take our foot off the
+  gas of the science machine as we get closer to science completeness, and ease
+  into culture-max. I take pleasure in impactfully moving us towards that
+  direction of fluorishing. and i also let this motivate my hobbies and
+  interests.
+- what to do for culture today -- avoid globalisation into monoculture, Resist
+  the flattening, protect culture, engage in it, create it, curate it. cultural
+  output not automatically good quality. beauty in eye of beholder up to a
+  certain extent. be cool to study this. maybe after the singularity.
 
-  )
+)
 
 ## Appendix
 
