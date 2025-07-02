@@ -153,9 +153,10 @@ prescribe something new.
 
 ### Engineering
 
-(engineering is artesanal, simplifying -- engineering is _how_ we use science to
-solve problems -- there is a story, there is design, there are preferences
-(taste), this is culture.)
+(what about engineering? tough to say. what i came to is. engineering is
+artesanal, simplifying -- engineering is _how_ we use science to solve problems
+-- there is a story, there is design, there are preferences (taste), this is
+culture. not sure im convinced but maybe theres something there.)
 
 ### Anthropocentrism
 
