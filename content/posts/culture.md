@@ -86,10 +86,6 @@ civilization.
 
 ## We can't afford to exclusively culture-max yet
 
-(defining the technical debt thing, addressing possible interpretation of
-anti-science sentiment, why we must keep doing science now, talk about
-present-day dynamics between stems and humanities/arts today)
-
 If I value meaning and I ascribe meaning to identity, and my identity is defined
 by my cultural outputs, then I should just culture-max my life right? In fact,
 we should _all_ just be making art and going to museums and writing novels and
