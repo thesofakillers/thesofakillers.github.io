@@ -1,7 +1,7 @@
 +++
 draft = true
 date = 2025-06-29T16:45:23+02:00
-title = "In the Limit, Only Culture will Matter"
+title = "In the Limit, Only Culture Remains"
 slug = "in-the-limit-only-culture"
 tags = []
 math=true
@@ -30,7 +30,7 @@ com made it unclear:
       limits.
 4. If this is true, then this means that any two science-complete civilizations
    will converge to the same set of models (perhaps expressed differently, but
-   ultimately equivalent). In the absense of multiple civilizations, the point
+   ultimately equivalent). In the absence of multiple civilizations, the point
    can be expressed as: In terms of science, the end state is identical for any
    science-faring civilization that fits the assumptions above.
 5. Scientific knowledge is thus necessarily **universal, non-rival, and
@@ -89,6 +89,45 @@ civilization.
 (defining the technical debt thing, addressing possible interpretation of
 anti-science sentiment, why we must keep doing science now, talk about
 present-day dynamics between stems and humanities/arts today)
+
+If I value meaning and I ascribe meaning to identity, and my identity is defined
+by my cultural outputs, then I should just culture-max my life right? In fact,
+we should _all_ just be making art and going to museums and writing novels and
+cooking food in a never ending fantastic celebration of humanity, right? And
+this as a call to abandon science, an anti-STEM manifesto undermining the value
+of scientific endeavors, right?
+
+THIS IS NOT WHAT THIS ESSAY IS SAYING!
+
+As great as that sounds, there is a reason I have specifically framed the thesis
+as "in the limit" -- we are simply not there yet. Curiosity aside, there is a
+very pragmatic reason why we do science today: we are in a situation of
+"technical debt" with respect to our understanding of reality. There are
+essentially many many holes in our physical models such that we still not able
+to address much of the problems the blight our existence today. Health, energy,
+climate, food security, population, scarcity -- these are all problems waiting
+for technical solutions we do not yet have.
+
+Until we have bridged that gap, we cannot afford to exclusively culture-max --
+we would not survive doing so. Note briefly that this does not mean that the
+opposite is true either -- if we exclusively hill-climbed science we would be
+left with no culture to identify us[^1]. That feels like a cop-out, but I'm just
+observing what I notice here in case others have not, I am not trying to
+prescribe something new.
+
+[^1]:
+    Interestingly, this tension I think explains some of the dynamics I see
+    between more STEM-oriented and more culture/humanities-oriented people
+    today. The STEMcels assume an air of superiority, fueled by the almost-fact
+    that they are actually "contributing" to the world, supposedly addressing
+    that technical debt. While this is in part true, I think there is component
+    of cope here, jealous of possibly more soulful lives their less productive
+    counterparts lead. On the flipside, the humanormies assume an air of je m'en
+    fiche, facing the fact that they are working on borrowed time to cope with
+    the associated guilt. I'm not making this up, I've seen and experienced this
+    first hand in conversations with many people from both camps. Of course it's
+    not always like this and the most mature (not necessarily an older!) do not
+    fall into these traps, but it is surprisingly common.
 
 ## Conclusion - What comes after science completeness
 
