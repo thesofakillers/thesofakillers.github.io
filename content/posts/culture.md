@@ -131,8 +131,19 @@ prescribe something new.
 
 ## Conclusion - What comes after science completeness
 
-(talk about cities, implications for the question of "how do we find meaning
-after work", what motivates me etc, what to do for culture today in the present)
+(
+
+- implications for the question of "how do we find meaning after work
+- After singularity, when there will no longer be work to do, people will be
+  drawn to cities no longer for career reasons but purely for experience, vibe
+  and your other typical reasons which are usually more culture related
+- what motivates me
+- what to do for culture today -- avoid globalisation into monoculture, protect
+  culture, engage in it, create it, curate it. cultural output not automatically
+  good quality. beauty in eye of beholder up to a certain extent. be cool to
+  study this. maybe after the singularity
+
+  )
 
 ## Appendix
 
