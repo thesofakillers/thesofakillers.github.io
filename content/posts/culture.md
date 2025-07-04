@@ -4,7 +4,7 @@ date = 2025-06-29T16:45:23+02:00
 title = "In the Limit, Only Culture Remains"
 slug = "in-the-limit-only-culture"
 tags = []
-math=true
+math=false
 +++
 
 This essay is about this post of mine from X dot com the everything app:
