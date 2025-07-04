@@ -5,7 +5,7 @@ title = "My PKB will no longer updated publicly"
 slug = "no-more-kb" 
 +++
 
-My [personal knowledge](../knowledge-base)base will no longer updated publicly.
+My [personal knowledge](../knowledge-base) base will no longer updated publicly.
 That is, the website that I used to share my notes will become stale. In fact,
 it already has been for more than a year. This is for two reasons:
 
