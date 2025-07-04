@@ -122,8 +122,14 @@ prescribe something new.
     fiche, facing the fact that they are working on borrowed time to cope with
     the associated guilt. I'm not making this up, I've seen and experienced this
     first hand in conversations with many people from both camps. Of course it's
-    not always like this and the most mature (not necessarily an older!) do not
+    not always like this and the most mature (not necessarily older!) do not
     fall into these traps, but it is surprisingly common.
+
+    PS: I think this is also explains in part why people in the arts are
+    generally seen as "cooler": not only are they naughtily ignoring the
+    technical debt (there's an element to transgression to that) but they are
+    genuinely producing things truly unique to them and to us as a civilization,
+    as a species.
 
 ## Conclusion - What comes after science completeness
 
