@@ -33,13 +33,13 @@ Get in touch at giulio[DOT]starace[AT]gmail[DOT]com
 
 ### A bit more about me
 
-I was born about {{< age >}} years ago in Rome, Italy, but grew up in a few
-other countries due to my parents' career. In my free time, I enjoy tinkering on
-side projects, playing football, bouldering, reading and attempting to make
-and/or play music. I like to talk and think about AI, the future, alternative
-ways of living, culture and Italy. My favourite artistic period is probably
-"Modern" (~ 1860 - 1945). For what I listen to, checkout my
-[last.fm](https://www.last.fm/user/giuliostarace). For what I watch, checkout my
+I was born in Rome, Italy, but grew up in a few other countries due to my
+parents' career. In my free time, I enjoy tinkering on side projects, playing
+football, bouldering, reading and attempting to make and/or play music. I like
+to talk and think about AI, the future, alternative ways of living, culture and
+Italy. My favourite artistic period is probably "Modern" (~ 1860 - 1945). For
+what I listen to, checkout my [last.fm](https://www.last.fm/user/giuliostarace).
+For what I watch, checkout my
 [letterboxd](https://letterboxd.com/thesofakillers/). For what I read, checkout
 my [goodreads](https://goodreads.com/thesofakillers). I want to learn more
 languages, how to make clothes, and how to sail.
