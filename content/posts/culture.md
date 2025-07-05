@@ -212,10 +212,20 @@ left. Until then, we might as well get good at it.
 
 ### Engineering
 
-(what about engineering? tough to say. what i came to is. engineering is
-artesanal, simplifying -- engineering is _how_ we use science to solve problems
--- there is a story, there is design, there are preferences (taste), this is
-culture. not sure im convinced but maybe theres something there.)
+What about engineering? It’s a bit murky. The temptation is to file engineering
+under the domain of science, as we normally do, e.g. with STEM. But I'm not sure
+it fits our working definition. Engineering is not about describing reality, it
+is not about finding models that explain and predict physical phenomena.
+Engineering, I claim, is the process of how we use our understanding of reality
+to solve problems. These solutions are imbued with decisions, preferences,
+taste, design -- there are optimal engineering solutions but these are optimal
+w.r.t. some objective function dictated by the preferences which give rise to
+the problem in the first place. There is something cultural here, engineering is
+artesanal perhaps. And so because of that, I am tempted to file it under the
+remainder of science completeness. I can imagine a science-complete world where
+ever-evolving cultures and changing preferences demand new engineering
+approaches, which therefore fail to converge to the same universal set like
+science does. I am still unsure about this, but perhaps there's something there.
 
 ### Anthropocentrism
 
