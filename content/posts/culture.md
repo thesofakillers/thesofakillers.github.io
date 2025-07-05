@@ -46,14 +46,6 @@ com made it unclear:
    non-redundant and therefore the deepest expression of what it means to be
    _this_ civilisation—indeed, to be human.
 
-## Objection Gauntlet
-
-If you're happy with just agreeing with what I've said so far, you can skip to
-the next section. If you have some objections, I'll try to pre-empt some of them
-here.
-
-(todo: objection gauntlet)
-
 ## The remainder of science-completeness
 
 Once scientific knowledge is complete, any civilization will share the same
