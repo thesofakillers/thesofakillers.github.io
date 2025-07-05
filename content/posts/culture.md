@@ -173,7 +173,7 @@ Zooming back in and returning to present-day, on a personal level I found this
 framing to help further motivate what I dedicate my career to. Yes, getting to
 work on machine learning in the pursuit of artificial general intelligence
 already comes with a ton of motivation -- I get to work on the
-['grande challenge' of our times](https://x.com/tensorqt/status/1839725869939470597),
+['grand challenge' of our times](https://x.com/tensorqt/status/1839725869939470597),
 the curiosity itch is more than scratched (these are interesting problems to
 solve!), and it's also really cool in a sci-fi kinda way, which I like. But
 beyond that, the framing gives me further answers to the questions of "ok but
@@ -198,7 +198,7 @@ there are real questions of quality, depth, and significance that are worth
 interrogating. Perhaps, in a science-complete world, the study and cultivation
 of culture—understanding what makes it rich, vibrant, or beautiful—will itself
 become a new kind of science, or at least the most important human endeavor
-left. Until then, we might as well get good at it.
+left.
 
 ## Appendix
 
