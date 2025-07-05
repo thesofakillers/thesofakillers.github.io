@@ -2,6 +2,7 @@
 draft = false
 date = 2025-07-05T16:45:23+02:00
 title = "In the Limit, Only Culture Remains"
+description = "What will matter when we fully solve science? On meaning in a science-complete world."
 slug = "in-the-limit-only-culture"
 tags = []
 math=false
