@@ -241,6 +241,11 @@ which would ultimately culminate in "solving" science.
 
 ### Flora and Fauna
 
-(This feels like part of the identity of a place, so feels like it should fall
-under the culture grouping. Perhaps this is an indication that culture is the
-wrong term.)
+Where do flora and fauna fit in all this? The plants, animals, and landscapes
+associated with a culture are often deeply intertwined with its identity -- I'd
+be easily convinced for instance that horses are an integral part of Mongolian
+identity (though perhaps I am wrong about this out of ignorance). These aren't
+cultural outputs, yet they often directly shape it -- think cuisine, mythology
+and even language. If the "culture" bucket feels forced here, perhaps that's an
+indication that "culture" is the wrong term to ascribe to this remainder that I
+speak of.
