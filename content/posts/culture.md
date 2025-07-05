@@ -46,43 +46,13 @@ com made it unclear:
    non-redundant and therefore the deepest expression of what it means to be
    _this_ civilisation—indeed, to be human.
 
-## The remainder of science-completeness
-
-Once scientific knowledge is complete, any civilization will share the same
-fundamental understanding of reality. The distinctiveness of any civilization,
-therefore, must lie beyond that universally fixed knowledge—specifically in its
-**culture**.
-
-Culture, as I define it here, includes those aspects of civilization that arise
-from subjective experience, shared values, and historical narratives rather than
-objective descriptions of reality. It is almost everything else that we do that
-isn't merely a natural consequence of physical laws. Think of:
-
-- **Artistic Expression:** Art, design, music, literature, architecture—all
-  human creations expressing subjective preferences and aesthetic values.
-- **Narrative and Identity:** History, mythology, religion,
-  traditions—storytelling forms that bind communities and define collective
-  identities.
-- **Social Constructs:** Politics, law, morality—systems fundamentally built on
-  subjective interpretations of justice, fairness, authority, and community
-  values.
-
-While this definition might still feel broad, the key distinction is
-straightforward: **culture is what science alone cannot predict**. Cultural
-outputs are inherently subjective, context-dependent, and reflective of
-arbitrary choices of its creators rather than universal truth.
-
-This clarification allows us to precisely restate our thesis: in the long-term
-future of scientific completeness, culture alone remains unique to any given
-civilization.
-
 ## We can't afford to exclusively culture-max yet
 
 If I value meaning and I ascribe meaning to identity, and my identity is defined
 by my cultural outputs, then I should just culture-max my life right? In fact,
 we should _all_ just be making art and going to museums and writing novels and
 cooking food in a never ending fantastic celebration of humanity, right? And
-this as a call to abandon science, an anti-STEM manifesto undermining the value
+this is a call to abandon science, an anti-STEM manifesto undermining the value
 of scientific endeavors, right?
 
 THIS IS NOT WHAT THIS ESSAY IS SAYING!
