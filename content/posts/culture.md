@@ -109,9 +109,9 @@ which I found helpful, and which perhaps you may too.
 First, I think taking this view provides at least a partial answer to the
 questions of _"What will we do when our labour will finally be automated away?
 How will we find meaning after work?"_ I always found those questions kind of
-odd, because there are so many ways to get meaning out of life outside of work,
-and so it feels like those questions come from a lack of introspection or a lack
-of imagination. Do you not find meaning in your relationships? From the stories
+odd, because there are so many ways to get meaning outside of work, and so it
+feels like those questions come from a lack of introspection or a lack of
+imagination. Do you not find meaning in your relationships? From the stories
 you're told and the stories you tell? Have you never felt something when
 experiencing a piece art? Have you ever tried making some yourself? My answer to
 the meaning post-labour questions is that I expect that we will largely switch
@@ -125,12 +125,12 @@ come from sacrifice.
 An interesting consequence of this is to consider cities after
 science-completeness. Today, we flock to urban centers mostly dictated by career
 ambition, opportunities and economic necessity. At some stage you may imagine
-that, freed from such constraints, we’ll be drawn from something else entirely:
-the vibe, the scenes, the particular cultural textures that makes you experience
-Rome in Granada, the intricacies of ordering drinks at your neighborhood bar
-that make it special for you despite serving the same beer as everywhere else,
-that make a language feel like an inseparable part of yourself rather than just
-a tool for communication.
+that, freed from such constraints, we’ll be drawn by something else entirely:
+the vibe, the scenes, the particular cultural textures that makes Granada feel
+like Rome, the intricacies of ordering drinks at your neighborhood bar that make
+it special for you despite serving the same beer as everywhere else, the
+subconscious memories make a language feel like an inseparable part of yourself
+rather than just a tool for communication.
 
 A possible corollary of this is that we may shift our measures of wealth away
 from economic indicators such as GDP and towards measures of cultural output,
@@ -189,8 +189,8 @@ taste, design -- there are optimal engineering solutions but these are optimal
 w.r.t. some objective function dictated by the preferences which give rise to
 the problem in the first place. There is something cultural here, engineering is
 artisanal, perhaps. And so because of that, I am tempted to file it under the
-remainder of science completeness. I can imagine a science-complete world where
-ever-evolving cultures and changing preferences demand new engineering
+"remainder" of science completeness. I can imagine a science-complete world
+where ever-evolving cultures and changing preferences demand new engineering
 approaches, which therefore fail to converge to the same universal set like
 science does. I am still unsure about this, but perhaps there's something there.
 
