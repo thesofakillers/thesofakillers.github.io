@@ -16,7 +16,7 @@ enableRobotsTXT = true
 title = "Giulio Starace"
 description = "Giulio Starace's personal website"
 images = [
-  "/images/cover.JPG",
+  "/images/cover.png",
   "https://gravatar.com/avatar/183d6e8b6fcb762d6cbc1c15dd7423da?s=400",
 ]
 hideMadeWithLine = true
