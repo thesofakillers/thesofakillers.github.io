@@ -219,10 +219,18 @@ ever-evolving cultures and changing preferences demand new engineering
 approaches, which therefore fail to converge to the same universal set like
 science does. I am still unsure about this, but perhaps there's something there.
 
-### Anthropocentrism
+### Uniqueness for Meaning
 
-(why does meaning necessarily need to be derived from things uniquely human?
-idk)
+Why does meaning necessarily need to be derived from uniqueness/irreducibility?
+I am not sure, and perhaps I am wrong. One of the thought experiments that
+helped me develop this idea was to consider a world where we made contact with a
+(friendly) alien species. Assuming science-completeness on both sides, what
+would I be interested to learn about them? Probably their language, their
+religion (if any), their food, their history, etc.. These are all cultural
+elements. Why would I be interested in these aspects specifically? From there I
+reasoned that I _expect_ these to be unique to them, and correspondingly our
+(human) own cultural elements would be unique to us, and would be a means of
+pride and identity, to which I then ascribed meaning.
 
 ### Is this just the Singularity?
 
