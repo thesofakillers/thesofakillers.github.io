@@ -2,10 +2,20 @@ p {
   font-size: 1.125rem;
   margin-block-start: 1em;
   margin-block-end: 0;
+  line-height: 1.2;
+}
+content {
+  line-height: 1.2;
 }
 
 li {
   font-size: 1.125rem;
+  margin-block-start: 0.5em;
+  margin-block-end: 0;
+}
+ul.blog-posts li{
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
 
 nav {
@@ -18,7 +28,7 @@ nav {
 
 ul,
 ol {
-  margin-block-start: 0;
+  margin-block-start: 1em;
   margin-block-end: 0;
 }
 
