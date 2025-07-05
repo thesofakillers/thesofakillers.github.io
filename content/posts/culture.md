@@ -20,7 +20,7 @@ com made it unclear:
 2. Further simplifying, I assume that the set of models to describe reality is
    finite, so that at some stage it is possible to completely describe reality,
    i.e. to "solve" science, at least in the limit.
-3. If this is true, then any science-faring civilization will ultimately reach
+3. I then claim that any science-faring civilization will ultimately reach
    "science-completeness", the state described in the previous point. This is
    assuming
    1. Eventual progress in the long run (i.e. no
@@ -31,8 +31,8 @@ com made it unclear:
 4. If this is true, then this means that any two science-complete civilizations
    will converge to the same set of models (perhaps expressed differently, but
    ultimately equivalent). In the absence of multiple civilizations, the point
-   can be expressed as: In terms of science, the end state is identical for any
-   science-faring civilization that fits the assumptions above.
+   can be expressed as: In terms of science, the end state is always identical
+   for any science-faring civilization that fits the assumptions above.
 5. Scientific knowledge is thus necessarily **universal, non-rival, and
    non-excludable**. The same fact "belongs" to reality, not to its first
    discoverer. There is a human _story_ for how Maxwell's equations were
@@ -87,21 +87,22 @@ of scientific endeavors, right?
 
 THIS IS NOT WHAT THIS ESSAY IS SAYING!
 
-As great as that sounds, there is a reason I have specifically framed the thesis
-as "in the limit" -- we are simply not there yet. Curiosity aside, there is a
-very pragmatic reason why we do science today: we are in a situation of
-"technical debt" with respect to our understanding of reality. There are
-essentially many many holes in our physical models such that we still not able
-to address much of the problems the blight our existence today. Health, energy,
-climate, food security, population, scarcity -- these are all problems waiting
-for technical solutions we do not yet have.
+As great as the first part of that sounds, there is a reason I have specifically
+framed the thesis as "in the limit" -- we are simply not there yet. Curiosity
+aside, there is a very pragmatic reason why we do science today: we are in a
+situation of "technical debt" with respect to our understanding of reality.
+There are essentially many many holes in our physical models such that we still
+are not able to address the many problems that blight our existence today.
+Health, energy, climate, food security, population, scarcity -- these are all
+problems waiting for technical solutions bottlenecked by knowledge we do not yet
+have.
 
 Until we have bridged that gap, we cannot afford to exclusively culture-max --
 we would not survive doing so. Note briefly that this does not mean that the
-opposite is true either -- if we exclusively hill-climbed science we would be
-left with no culture to identify us[^1]. That feels like a cop-out, but I'm just
-observing what I notice here in case others have not, I am not trying to
-prescribe something new.
+opposite is true either -- if we were to exclusively hill-climb science we would
+be left with no culture to identify ourselves by[^1]. Admittedly that reads like
+a cop-out, and it is. I am not aiming to prescribe some call to action here, my
+goal is to share some of my thoughts and observations.
 
 [^1]:
     Interestingly, this tension I think explains some of the dynamics I see
@@ -128,35 +129,38 @@ prescribe something new.
 The idea behind this essay came to me while listening to music and trying to
 rationalize why I valued that experience. It was in a period of my life where I
 was also trying to understand why identity felt so important, so you can see how
-the thesis emerged. I generally try to rationalize things, or so I am told,
-though I am not sure I had a good reason to write this: it's underdeveloped,
-makes strong generalizations and assumptions and yet it's probably still
-valuable to lean towards putting it out there anyway. Here's some implications
-that came to mind while developing this idea and writing this essay.
+the thesis emerged. This rationalization is not out of character, it's something
+I tend to do, or so I am told. As for this essay, it's underdeveloped, makes
+strong generalizations and assumptions, but I think it's probably still valuable
+to lean towards putting it out there anyway. For instance, here are some
+implications that came to mind while developing this idea and writing this essay
+which I found helpful, and which perhaps you may too.
 
 First, I think taking this view provides at least a partial answer to the
 questions of _"What will we do when our labour will finally be automated away?
 How will we find meaning after work?"_ I always found those questions kind of
 odd, because there are so many ways to get meaning out of life outside of work,
-and they feel like they're coming from a lack of introspection. Do you not get
-meaning from your relationships? From stories you're told and the stories you
-tell? Do you never feel something when you consume art? Have you tried making
-some yourself? I think we will just switch to just doing all of that all of the
-time, to culture-maxxing, and maybe meaning will emerge in ensuring the valence
-and quality of our cultural outputs is high, whatever that will mean. This may
-come across as hedonistic, but I challenge the Calvinistic devil sitting on your
-shoulder to consider that you can enjoy things and they can still not be devoid
-of value, and that meaning does not need to come from sacrifice.
+and so it feels like those questions come from a lack of introspection or a lack
+of imagination. Do you not find meaning in your relationships? From the stories
+you're told and the stories you tell? Have you never felt something when
+experiencing a piece art? Have you ever tried making some yourself? My answer to
+the meaning post-labour questions is that I expect that we will largely switch
+to mainly cultural activities, to culture-maxxing, and maybe meaning will emerge
+in ensuring the valence and quality of our cultural outputs is high, whatever
+that will mean. This may come across as hedonistic, but I challenge the
+Calvinistic devil sitting on your shoulder to consider that you can enjoy things
+and they can still not be devoid of value, and that meaning does not need to
+come from sacrifice.
 
 An interesting consequence of this is to consider cities after
 science-completeness. Today, we flock to urban centers mostly dictated by career
 ambition, opportunities and economic necessity. At some stage you may imagine
-that, freed from such constraints, we'll be drawn from something else entirely:
+that, freed from such constraints, we’ll be drawn from something else entirely:
 the vibe, the scenes, the particular cultural textures that makes you experience
-Rome in Granada, the intricacies of ordering that make your neighborhood bar
-unique despite serving the same beer as everywhere else, that make a language
-feel like an inseparable part of yourself rather than just a tool for
-communication.
+Rome in Granada, the intricacies of ordering drinks at your neighborhood bar
+that make it special for you despite serving the same beer as everywhere else,
+that make a language feel like an inseparable part of yourself rather than just
+a tool for communication.
 
 A possible corollary of this is that we may shift our measures of wealth away
 from economic indicators such as GDP and towards measures of cultural output,
@@ -174,21 +178,21 @@ framing to help further motivate what I dedicate my career to. Yes, getting to
 work on machine learning in the pursuit of artificial general intelligence
 already comes with a ton of motivation -- I get to work on the
 ['grand challenge' of our times](https://x.com/tensorqt/status/1839725869939470597),
-the curiosity itch is more than scratched (these are interesting problems to
-solve!), and it's also really cool in a sci-fi kinda way, which I like. But
-beyond that, the framing gives me further answers to the questions of "ok but
-why bother with this grand challenge in particular?" -- 1. Because it is likely
-one of the highest leverage approaches to bridging that technical debt 2.
-Because beyond that gap we get to enjoy a culture-maxxing world, a world which I
-think will be more meaningful. Outside of work, the framing has guided me also
-in what sort of hobbies I pursue, and what I do with my free time. Besides the
-deeper meaning I get from the rationalization, in a science-complete world it
-will be valuable to be able to contribute to culture, so may as well start now.
+the curiosity itch is more than scratched (these are interesting problems!), and
+it's also really cool in a sci-fi kinda way, which I like. But beyond that, the
+framing gives me further answers to the questions of "ok but why bother with
+this grand challenge in particular?" -- 1. Because it is likely one of the
+highest leverage approaches to bridging that technical debt 2. Because beyond
+that gap we get to enjoy a culture-maxxing world, a world which I think will be
+more meaningful. Outside of work, the framing has guided me also in what sort of
+hobbies I pursue, and what I do with my free time. Besides the deeper meaning I
+get from the rationalization, in a science-complete world it will be valuable to
+be able to contribute to culture, so may as well start now.
 
 So, what does all this mean for what we should _actually do_ about culture
 today? If we accept the thesis that, in the limit, culture is the only
 non-redundant contribution left, then it becomes urgent to resist the flattening
-forces of globalization and monoculture. The world does not need a single,
+forces of enshittification and monoculture. The world does not need a single,
 blandly universal set of stories, aesthetics, or rituals. It needs difference,
 specificity, and texture. This is not an argument for static preservation or
 nostalgia, but for active participation: **engage in culture, create it, curate
@@ -198,7 +202,8 @@ there are real questions of quality, depth, and significance that are worth
 interrogating. Perhaps, in a science-complete world, the study and cultivation
 of culture—understanding what makes it rich, vibrant, or beautiful—will itself
 become a new kind of science, or at least the most important human endeavor
-left.
+left. For now I raise this essay as food for thought, and perhaps to inspire
+some steps in that direction.
 
 ## Appendix
 
@@ -213,7 +218,7 @@ to solve problems. These solutions are imbued with decisions, preferences,
 taste, design -- there are optimal engineering solutions but these are optimal
 w.r.t. some objective function dictated by the preferences which give rise to
 the problem in the first place. There is something cultural here, engineering is
-artesanal perhaps. And so because of that, I am tempted to file it under the
+artisanal, perhaps. And so because of that, I am tempted to file it under the
 remainder of science completeness. I can imagine a science-complete world where
 ever-evolving cultures and changing preferences demand new engineering
 approaches, which therefore fail to converge to the same universal set like
