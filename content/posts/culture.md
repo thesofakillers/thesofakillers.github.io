@@ -76,11 +76,11 @@ goal is to share some of my thoughts and observations.
 
 [^1]:
     Interestingly, this tension I think explains some of the dynamics I see
-    between more STEM-oriented and more culture/humanities-oriented people
-    today. The STEMcels assume an air of superiority, fueled by the almost-fact
-    that they are actually "contributing" to the world, supposedly addressing
-    that technical debt. While this is in part true, I think there is component
-    of cope here, jealous of possibly more soulful lives their less productive
+    between more STEM-oriented and more arts/humanities-oriented people today.
+    The STEMcels assume an air of superiority, fueled by the almost-fact that
+    they are actually "contributing" to the world, supposedly addressing that
+    technical debt. While this is in part true, I think there is component of
+    cope here, jealous of possibly more soulful lives their less productive
     counterparts lead. On the flipside, the humanormies assume an air of je m'en
     fiche, facing the fact that they are working on borrowed time to cope with
     the associated guilt. I'm not making this up, I've seen and experienced this
