@@ -234,9 +234,10 @@ pride and identity, to which I then ascribed meaning.
 
 ### Is this just the Singularity?
 
-(kinda? i feel like this is the end state of the singularity, which in my mind
-is the moment a civilization (or the universe) gets the intelligence explosion
-which would ultimately culminate in "solving" science.)
+Kind of? I feel like science-completeness is the end state of the singularity,
+which in my mind is the moment a civilization (or the universe) kicks off an
+intelligence explosion via recursive/rapid self-improving intelligent systems,
+which would ultimately culminate in "solving" science.
 
 ### Flora and Fauna
 
