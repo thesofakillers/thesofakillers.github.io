@@ -9,7 +9,7 @@ url="/"
 
 Hi, I'm Giulio, welcome to my homepage.
 
-I'm cofounder at ___.
+Right now, I'm building ___ as cofounder. Stay tuned for more details.
 
 Previously, I was at [OpenAI](https://openai.com), where I worked within
 [Preparedness](https://openai.com/preparedness/) on model evaluations. See some
