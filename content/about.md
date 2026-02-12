@@ -9,8 +9,9 @@ url="/"
 
 Hi, I'm Giulio, welcome to my homepage.
 
-I'm currently contracting as a Research Engineer at
-[OpenAI](https://openai.com), where I am working within
+I'm cofounder at ___.
+
+Previously, I was at [OpenAI](https://openai.com), where I worked within
 [Preparedness](https://openai.com/preparedness/) on model evaluations. See some
 of our work [here](https://openai.com/index/paperbench/),
 [here](https://openai.com/index/mle-bench/),
