@@ -47,6 +47,16 @@ body {
   max-width: 650px;
 }
 
+main p,
+main li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+ul.blog-posts li {
+  text-align: left;
+}
+
 /* Default link styles (for navigation, etc) */
 a,
 a:visited {
