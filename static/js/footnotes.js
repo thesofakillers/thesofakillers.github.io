@@ -5,7 +5,7 @@
   const notes = [...document.querySelectorAll(".footnotes li[id]")];
   if (!main || !notes.length) return;
 
-  const wide = matchMedia("screen and (min-width: 75rem)");
+  const wide = matchMedia("screen and (min-width: 68rem)");
   const gap = 12;
 
   function layout() {

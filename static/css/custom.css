@@ -98,7 +98,12 @@ a:focus {
 }
 
 /* Margin footnotes: positioned by /js/footnotes.js on wide screens */
-@media screen and (min-width: 75rem) {
+@media screen and (min-width: 68rem) {
+  /* Centre the text and notes together: 690px body + 2rem gap + 18rem notes */
+  body {
+    margin-left: max(1rem, calc(50vw - 505px));
+  }
+
   main.margin-notes {
     position: relative;
   }
@@ -107,7 +112,7 @@ a:focus {
     position: absolute;
     top: 0;
     left: calc(100% + 2rem);
-    width: 14rem;
+    width: 18rem;
   }
 
   main.margin-notes .footnotes hr,
