@@ -453,16 +453,21 @@ _Proceedings of the 24th International Conference on Machine Learning_,
     studying problems and approaches wherein an artificial agent interacts with
     an environment in the process of pursuing and eventually achieving a
     specific goal ([Frankish and Ramsey, 2014](#ref-frankish_cambridge_2014)).
+
     In this context, we envision the agent as acting according to some policy
-    $\pi$ which maps states $S$ to actions $A$. States are instantaneous
-    representations of the environment, descriptions of the environment at a
-    given moment. Actions are motions and outputs produced by the agent that may
-    affect the state of the environment. We model the interaction between the
-    agent and the environment as unfolding over discrete time steps. At each
-    time step, the agent observes the state, consults its policy $\pi$ to select
-    an action, and then executes that action. In the next time step, the
-    environment responds by transitioning to a new state, and the loop
-    continues. In other words, the formalism for problems typically studied in
+    $\pi$ which maps states $S$ to actions $A$.
+
+    States are instantaneous representations of the environment, descriptions of
+    the environment at a given moment. Actions are motions and outputs produced
+    by the agent that may affect the state of the environment.
+
+    We model the interaction between the agent and the environment as unfolding
+    over discrete time steps. At each time step, the agent observes the state,
+    consults its policy $\pi$ to select an action, and then executes that
+    action. In the next time step, the environment responds by transitioning to
+    a new state, and the loop continues.
+
+    In other words, the formalism for problems typically studied in
     Reinforcement Learning and/or Imitation Learning under the Markov Decision
     Process (MDP) framework [(Puterman 2014)](#ref-puterman_markov_2014)
 
