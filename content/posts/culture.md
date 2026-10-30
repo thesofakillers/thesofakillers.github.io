@@ -56,7 +56,7 @@ cooking food in a never ending fantastic celebration of humanity, right? And
 this is a call to abandon science, an anti-STEM manifesto undermining the value
 of scientific endeavors, right?
 
-THIS IS NOT WHAT THIS ESSAY IS SAYING!
+This is not what this essay is saying.
 
 As great as the first part of that sounds, there is a reason I have specifically
 framed the thesis as "in the limit" -- we are simply not there yet. Curiosity
