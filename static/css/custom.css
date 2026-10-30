@@ -47,6 +47,11 @@ sup {
   line-height: 0;
 }
 
+/* Keep math the same size as the surrounding text */
+main .katex {
+  font-size: 1em;
+}
+
 body {
   font-family: serif;
   max-width: 650px;
