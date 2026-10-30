@@ -93,6 +93,152 @@ a:focus {
   text-decoration: underline;
 }
 
+/* Code: one accent on the site's own ink and paper colours */
+:root {
+  --code-bg: #f6f6f3;
+  --code-ink: #333;
+  --code-muted: #85857e;
+  --code-accent: #af0000;
+  --code-strong: #111;
+}
+
+code {
+  font-size: 0.85em;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  background-color: var(--code-bg);
+  color: var(--code-ink);
+}
+
+pre {
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.highlight {
+  margin-block-start: 1em;
+}
+
+div.highlight pre {
+  margin: 0;
+  background: var(--code-bg);
+  color: var(--code-ink);
+  tab-size: 4;
+}
+
+div.highlight pre code,
+pre code {
+  display: block;
+  padding: 0;
+  border-radius: 0;
+  font-size: inherit;
+  background: none;
+  color: inherit;
+  white-space: pre;
+}
+
+.highlight > .chroma {
+  overflow-x: auto;
+  background: var(--code-bg);
+  border-radius: 3px;
+}
+
+.chroma table {
+  border-spacing: 0;
+  padding: 0;
+  width: auto;
+  min-width: 100%;
+}
+
+.chroma td {
+  padding: 0;
+  vertical-align: top;
+}
+
+.chroma .lntd:first-child pre {
+  padding: 0.75rem 0.75rem;
+  color: var(--code-muted);
+  text-align: right;
+  user-select: none;
+}
+
+.chroma .lntd:last-child {
+  width: 100%;
+}
+
+.chroma .lntd:last-child pre {
+  padding: 0.75rem 1rem 0.75rem 0;
+}
+
+.chroma .c,
+.chroma .ch,
+.chroma .cm,
+.chroma .c1,
+.chroma .cs,
+.chroma .cp,
+.chroma .cpf,
+.chroma .sd {
+  color: var(--code-muted);
+  font-style: italic;
+}
+
+.chroma .k,
+.chroma .kc,
+.chroma .kd,
+.chroma .kn,
+.chroma .kp,
+.chroma .kr,
+.chroma .kt,
+.chroma .ow {
+  color: var(--code-accent);
+  font-weight: bold;
+}
+
+.chroma .s,
+.chroma .sa,
+.chroma .sb,
+.chroma .sc,
+.chroma .dl,
+.chroma .s2,
+.chroma .se,
+.chroma .sh,
+.chroma .si,
+.chroma .sx,
+.chroma .sr,
+.chroma .s1,
+.chroma .ss,
+.chroma .m,
+.chroma .mb,
+.chroma .mf,
+.chroma .mh,
+.chroma .mi,
+.chroma .il,
+.chroma .mo,
+.chroma .o {
+  color: var(--code-accent);
+}
+
+.chroma .nf,
+.chroma .fm,
+.chroma .nc,
+.chroma .nd,
+.chroma .nb,
+.chroma .bp,
+.chroma .call {
+  color: var(--code-strong);
+  font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --code-bg: #2b2b2b;
+    --code-ink: #ddd;
+    --code-muted: #9a9a93;
+    --code-accent: #ff6b6b;
+    --code-strong: #fff;
+  }
+}
+
 .footnotes li:target {
   background: rgba(175, 0, 0, 0.08);
 }
