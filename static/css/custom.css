@@ -93,6 +93,63 @@ a:focus {
   text-decoration: underline;
 }
 
+.footnotes li:target {
+  background: rgba(175, 0, 0, 0.08);
+}
+
+/* Margin footnotes: positioned by /js/footnotes.js on wide screens */
+@media screen and (min-width: 75rem) {
+  main.margin-notes {
+    position: relative;
+  }
+
+  main.margin-notes .footnotes {
+    position: absolute;
+    top: 0;
+    left: calc(100% + 2rem);
+    width: 14rem;
+  }
+
+  main.margin-notes .footnotes hr,
+  main.margin-notes .footnote-backref {
+    display: none;
+  }
+
+  main.margin-notes .footnotes ol {
+    counter-reset: note;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  main.margin-notes .footnotes li {
+    counter-increment: note;
+    position: absolute;
+    top: var(--note-top, 0);
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding-left: 1.25em;
+    font-size: 0.85rem;
+    line-height: 1.3;
+    text-align: left;
+  }
+
+  main.margin-notes .footnotes li::before {
+    content: counter(note);
+    position: absolute;
+    left: 0;
+    font-size: 75%;
+  }
+
+  main.margin-notes .footnotes p {
+    margin: 0;
+    font-size: inherit;
+    line-height: inherit;
+    text-align: inherit;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   /* Default link styles in dark mode */
   a,
