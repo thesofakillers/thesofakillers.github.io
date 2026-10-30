@@ -71,6 +71,20 @@ main .katex {
   font-size: 1em;
 }
 
+/* Wide equations scroll on their own rather than widening the page */
+main .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 0.25em 0.75em;
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 var(--fade-left, 0px),
+    #000 calc(100% - var(--fade-right, 0px)),
+    transparent
+  );
+}
+
 body {
   font-family: serif;
   max-width: 650px;
