@@ -78,7 +78,8 @@ blockquote p {
   font-size: 0.9rem;
 }
 
-a:hover {
+a:hover,
+a:focus {
   text-decoration: underline;
 }
 
