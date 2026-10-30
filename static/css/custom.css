@@ -2,15 +2,15 @@ p {
   font-size: 1.125rem;
   margin-block-start: 1em;
   margin-block-end: 0;
-  line-height: 1.2;
+  line-height: 1.3;
 }
 content {
-  line-height: 1.2;
+  line-height: 1.3;
 }
 
 li {
   font-size: 1.125rem;
-  margin-block-start: 0.3em;
+  margin-block-start: 0.75em;
   margin-block-end: 0;
 }
 li > p:first-child {
@@ -33,12 +33,16 @@ ul,
 ol {
   margin-block-start: 1em;
   margin-block-end: 0;
-  padding-inline-start: 1.5em;
+  padding-inline-start: 2em;
 }
 
 /* Nested lists sit tight under their parent, with the same bullet */
 li > ul,
 li > ol {
+  margin-block-start: 0.4em;
+}
+
+li li {
   margin-block-start: 0.3em;
 }
 
